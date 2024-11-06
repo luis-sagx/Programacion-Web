@@ -10,14 +10,30 @@ p{
     text-align: justify;
 }
 
+strong{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
 h2{
-    color:crimson;
+    color:rgb(126, 16, 16);
     font-size: 25px;
     text-align: justify;
 }
 
-strong{
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
+ol{
+    color:rgb(22, 20, 143);
+    font-size: 20px;
+}
+
+dt{
+    color: rgb(50, 18, 165);
+    font-size: 22px;
+}
+
+dd{
+    color: rgb(40, 96, 153);
     font-size: 20px;
 }
