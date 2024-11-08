@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f9fd;
+    color: #1c1c1c;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 18px;
+    color: #1c2752;
+    text-align: justify;
+}
+
+header {
+    background-color: #1c2752;
+    color: #ffffff;
+    text-align: center;
+}
+
+footer {
+    background-color: #e2d2d2;
+    color: #1c2752;
+    text-align: center;
+}
+
+.container {
+    max-width: 880px;
+    text-align: left;
+}
+
+.img1 {
+    border-radius: 50%;
+}
+
+ul{
+    color:rgb(19, 18, 99);
+}
