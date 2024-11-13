@@ -59,3 +59,25 @@ footer{
     max-width: 880px;
     margin: 0 auto;
 }
+
+.spanuso {
+    color: blue; 
+}
+
+.boton{
+    color: black;
+    background-color: chocolate;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#botonBuscar{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: chocolate;
+}
