@@ -18,10 +18,29 @@
             </nav>
         </header>
 
-        Buscar: <input type="text" placeholder="buscar" id="buscar" name="buscar">
-        <button id="botonBuscar">Buscar</button>
+        <!--Buscar: <input type="text" placeholder="buscar" id="buscar" name="buscar">
+        <button id="botonBuscar">Buscar</button> -->
+
+        <form action="submit" method="post">
+            <label>Nombres: </label>
+            <input type="text" id="txtNombres" placeholder="Nombre">
+            <br>
+            <label>Apellidos: </label>
+            <input type="text" id="txtApellidos" placeholder="Apellido">
+            <br>
+            <label>Contraseña: </label>
+            <input type="password" id="txtContraseña" placeholder="Contraseña">
+            <br>
+            <select>
+                <option>Estudiante</option>
+                <option>Docente</option>
+                <option>Administrativo</option>
+            </select>
+            <br><br>
+            <button class="boton">Guardar</button>
+        </form>
         
-        <div class="content">
+        <div>
             <section>
                 <h2>Facebook</h2>
                 <p class="estilopFacebook">Facebook es una red social que permite a los usuarios <span class="spanuso">conectar con amigos y familiares</span>, 
@@ -102,16 +121,15 @@
             </section>
         </div>
 
-        <aside>
-            <h3>Curiosidades y Estadísticas de Redes Sociales</h3>
-            <p>¿Sabías que Facebook fue lanzado en 2004 y originalmente solo estaba disponible para estudiantes de Harvard? Hoy en día, es una de las redes más grandes con millones de usuarios globales.</p>
-            <p>Según estudios recientes, un usuario promedio pasa más de 2 horas diarias en redes sociales. Esta cifra sigue en aumento a medida que nuevas plataformas aparecen y ganan popularidad.</p>
-            <p>Instagram tiene una audiencia más joven, siendo la mayoría de sus usuarios menores de 35 años, mientras que WhatsApp, aunque también es popular entre jóvenes, tiene una mayor penetración en todas las edades debido a su funcionalidad de mensajería.</p>
-        </aside>
-
-        <footer>
-            &copy; 2024 Luis Sagnay
-        </footer>
+            <footer>
+                &copy; 2024 Luis Sagnay
+            </footer>
     </div>
+
+        <div class = "flexstyle">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
+        </div>
+
 </body>
 </html>
