@@ -9,28 +9,34 @@
 <body>
     <div class="container">
         <header>
-            <center><h1>Redes Sociales</h1></center>
+            <center>
+                <h1>Redes Sociales</h1>
+            </center>
+        </header>
+
+        <section>
             <nav>
                 <a href="index.html">Home</a> | 
                 <a href="https://es-la.facebook.com/">Facebook</a> |
                 <a href="https://www.instagram.com/">Instagram</a> |
                 <a href="https://web.whatsapp.com/">Whatsapp</a>
             </nav>
-        </header>
+        </section>
 
         <!--Buscar: <input type="text" placeholder="buscar" id="buscar" name="buscar">
         <button id="botonBuscar">Buscar</button> -->
 
         <form action="submit" method="post">
+            <br>
             <label>Nombres: </label>
             <input type="text" id="txtNombres" placeholder="Nombre">
-            <br>
+            <br><br>
             <label>Apellidos: </label>
             <input type="text" id="txtApellidos" placeholder="Apellido">
-            <br>
+            <br><br>
             <label>Contraseña: </label>
             <input type="password" id="txtContraseña" placeholder="Contraseña">
-            <br>
+            <br><br>
             <select>
                 <option>Estudiante</option>
                 <option>Docente</option>
@@ -40,7 +46,7 @@
             <button class="boton">Guardar</button>
         </form>
         
-        <div>
+        <div class="content">
             <section>
                 <h2>Facebook</h2>
                 <p class="estilopFacebook">Facebook es una red social que permite a los usuarios <span class="spanuso">conectar con amigos y familiares</span>, 
@@ -121,15 +127,31 @@
             </section>
         </div>
 
-            <footer>
-                &copy; 2024 Luis Sagnay
-            </footer>
+        <div class="asides">
+            <aside class="aside">
+                <h3>Curiosidades de Redes Sociales</h3>
+                <p>¿Sabías que Facebook fue lanzado en 2004 y originalmente solo estaba disponible para estudiantes de Harvard? Hoy en día, es una de las redes más grandes con millones de usuarios globales.</p>
+                <img src="imagenes/curiosidades.jpg" alt="Curiosidades" width="150" height="100">
+            </aside>
+            <aside class="aside">
+                <h3>Estadísticas de Redes Sociales</h3>
+                <p>Instagram tiene una audiencia más joven, siendo la mayoría de sus usuarios menores de 35 años.</p>
+                <img src="imagenes/estadisticas.jpg" alt="Estadísticas" width="150" height="100">
+            </aside>
+        </div>
+
+        <footer>
+            <h2>Contacto</h2>
+            <p class="pFooter">Correo electronico: sagnayluis@gmail.com</p>
+            <p class="pFooter">Telefono: 0983172773</p>
+            &copy; 2024 Luis Sagnay
+        </footer>
     </div>
 
-        <div class = "flexstyle">
+        <!--<div class = "flexstyle">
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
-        </div>
+        </div> -->
 
 </body>
 </html>
