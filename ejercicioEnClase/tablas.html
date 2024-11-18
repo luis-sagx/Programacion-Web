@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas</title>    
+    <link rel="stylesheet" href="./css/tablasdg.css">
+
+</head>
+<body>
+    <header>
+        <h1>Tablas</h1>
+        <p>El uso de la etiqueta <em>table</em> es para envio y recepcion de informacion</p>
+    </header>
+
+    <section>
+        <article>
+            <table frame="void" rules="rows" border="3px" cellpadding="10px" cellspacing="0px">
+                <caption align="bottom">Lista de Estudiantes</caption>
+                <colgroup>
+                    <col style="background-color: rgb(150, 182, 240);">
+                    <col style="background-color: rgb(150, 204, 240);">
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th width="200px">Nombres</th> <!-- colspan="2" para agrupar -->
+                        <th>Apellidos</th>
+                        <th>Direccion</th>
+                        <th>Telefono</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td align="center">Luis</td>
+                        <td>Sagnay</td>
+                        <td>Quito</td>
+                        <td>0987654321</td>
+                    </tr>
+                    <tr>
+                        <td >Luis</td>
+                        <td>Sagnay</td>
+                        <td>Quito</td>
+                        <td>0987654321</td>
+                    </tr>
+                    <tr>
+                        <td>Luis</td>
+                        <td>Sagnay</td>
+                        <td>Quito</td>
+                        <td>0987654321</td>
+                    </tr>
+                    <tr>
+                        <td>Luis</td>
+                        <td>Sagnay</td>
+                        <td>Quito</td>
+                        <td>0987654321</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td>sum</td>
+                        <td>sum</td>
+                        <td>sub</td>
+                        <td>sub</td>
+                    </tr>
+                </tfoot>
+            </table>
+
+            <br>
+            <table border="3px" cellpadding="10px" cellspacing="0px">
+                <thead>
+                    <tr>
+                        <th>Nombres</th> <!-- rowspan="2" para agrupar -->
+                        <th>Apellidos</th>
+                        <th>Direccion</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td rowspan="4">Texto</td>
+                        <td>Texto</td>
+                        <td rowspan="4">Texto</td>
+                    </tr>
+                    <tr>
+                        <td>Texto</td>
+                    </tr>
+                    <tr>
+                        <td>Texto</td>
+                    </tr>
+                    <tr>
+                        <td>Texto</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+
+                </tfoot>
+            </table>
+        </article>
+        <article>
+            <form action="submit" method="post">
+                <br>
+                <label>Nombres: </label>
+                <input type="text" minlength="3" maxlength="20" id="txtNombres" placeholder="Nombre">
+                <br><br>
+                <label>Apellidos: </label>
+                <input type="text" minlength="3" maxlength="20" id="txtApellidos" placeholder="Apellido">
+                <br><br>
+                <label>Contraseña: </label>
+                <input type="password" maxlength="6" id="txtContraseña" placeholder="Contraseña" >
+                <br><br>
+                <label>Observacion:</label>
+                <textarea name="textareaObservacion">
+
+                </textarea>
+                <br><br>
+                <select>
+                    <option>Estudiante</option>
+                    <option>Docente</option>
+                    <option>Administrativo</option>
+                </select>
+                <br><br>
+                <input type="submit" value="Enviar">
+            </form>
+        </article>
+    </section>
+</body>
+</html>
