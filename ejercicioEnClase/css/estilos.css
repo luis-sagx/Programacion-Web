@@ -5,6 +5,8 @@ body {
 }
 
 header{
+    width: 100%;
+    float: left;
     background-color: #2e3e8c;
 }
 
@@ -30,7 +32,7 @@ h1 {
 }
 
 h2 {
-    color: #a9b8cb;
+    color: #220d65;
     font-size: 25px;
     text-align: justify;
     margin-bottom: 15px;
@@ -53,19 +55,26 @@ footer {
     background-color: #2e3e8c;
     color:#edece3;
     text-align: center;
-    font-size: 16px;
+    width: 100%;
+    float: left;
+    height: 10%;
 }
 
-.estilopFacebook { 
+/* .estilopFacebook { 
     color: rgb(4, 12, 77);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
-}
+} */
 
-#caracteristicasFacebook {
+/* #caracteristicasFacebook {
     color: rgb(107, 18, 18);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+} */
+
+#introduccion{
+    background-color: antiquewhite;
+    border-radius: 8px;
 }
 
 .container {
@@ -86,6 +95,15 @@ footer {
     cursor: pointer;
 }
 
+.boton-container {
+    text-align: center;
+}
+
+.boton-container > p {
+    text-align: center;
+}
+
+
 #botonBuscar {
     color: white;
     background-color: #d2691e;
@@ -97,39 +115,36 @@ footer {
 }
 
 .content{
-    max-width: 70%;
+    width: 70%;
+    float: left;
 }
 
-.asides {
-    display: flex;
-    flex-direction: column;
-    position: absolute;
-    right: 0;
-    top: 100px; 
-    width: 20%; 
+aside {
+    width: 25%;
+    float: right;
 }
 
 .aside {
     background-color: #f4f4f4;
     border-radius: 8px;
+    text-align: center;
 }
 
-
-div > p {
-    color: #1c1c1c;
+article{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 18px;
 }
 
-p > h6 {
+article > p {
+    color: #0e0b42;
+    font-size: 15px;
+}
+
+/* p > h6 {
     color: #232325;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 18px;
-}
+} */
 
-aside > h2{
-    background-color: #1c2752;
-}
 
 div li {
     color: #334d6e;
@@ -152,10 +167,15 @@ img {
 }
 
 
-.pFooter{
+footer > p{
     color: white;
+}
+
+footer > h2 {
+    color: antiquewhite;
 }
 
 nav{
     text-align: center;
 }
+

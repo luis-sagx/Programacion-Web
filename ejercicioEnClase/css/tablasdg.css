@@ -1,0 +1,40 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background: rgb(29, 19, 136);
+    background: linear-gradient(90deg, rgb(29, 19, 136) 0%, rgb(45, 150, 177) 38%, rgb(84, 14, 155) 100%);
+    color: aliceblue;
+}
+
+caption{
+    background-color: rgb(134, 246, 229);
+}
+
+input[type="text"]{
+    background-color: transparent;
+    border-bottom: 1px solid black;
+    border-radius: 0px;
+}
+
+input[type="password"]{
+    background-color: rgb(145, 202, 241);
+}
+
+input{
+    border-radius: 8px;
+    border: 0px;
+    outline: none;
+}
+
+input[id="txtNombres" ]::placeholder {
+    color: rgb(42, 165, 91); 
+}
+
+::placeholder { /* pseudoclase  */
+    color: rgb(55, 84, 229);
+}
+
+
+
