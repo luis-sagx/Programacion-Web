@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(180, 192, 203);
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: rgb(35, 16, 104);
+    color: aliceblue;
+    text-align: center;
+}
+
+table th{
+    background-color: rgb(25, 25, 117);
+    color: #ddd;
+}
+
+table{
+    margin: 0 auto;
+    width: 70%;
+}
+
+table caption{
+    color: blue;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #ddd;
+}
+
+table td {
+    background-color: #ddd;
+}

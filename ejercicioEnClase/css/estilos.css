@@ -2,6 +2,7 @@ body {
     background-color: #edece3;
     color: #1c1c1c;
     font-family: 'Times New Roman', Times, serif;
+    text-align: left;
 }
 
 header{
@@ -78,7 +79,6 @@ footer {
 }
 
 .container {
-    text-align: left;
     margin: 0 auto;
 }
 
@@ -166,7 +166,6 @@ img {
 
 }
 
-
 footer > p{
     color: white;
 }
@@ -177,5 +176,9 @@ footer > h2 {
 
 nav{
     text-align: center;
+    
 }
 
+nav a{
+    text-decoration: none;
+}

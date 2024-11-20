@@ -36,5 +36,8 @@ input[id="txtNombres" ]::placeholder {
     color: rgb(55, 84, 229);
 }
 
+article{
+    align-content: center;
+}
 
 
