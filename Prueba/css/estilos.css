@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(35, 16, 104);
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: rgb(35, 16, 104);
+    color: aliceblue;
+    text-align: center;
+}
+
+.container{
+    margin: 0 auto;
+} 
+
+.flex-container {
+    display: flex;
+    margin: 0 auto;
+}
+
+.content{
+    background-color: rgb(140, 147, 147);
+    color: rgb(0, 0, 0);
+    flex-basis: 70%;
+    margin-bottom: 0;
+}
+
+.barra-lateral{
+    background-color: rgb(0, 0, 0);
+    order: initial;
+    flex-basis: 30%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.barra-lateral p{
+    border-radius: 5px;
+    background-color: blue;
+    text-align: center;
+    width: 300px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #ddd;
+}
+
+aside{
+    position: fixed; 
+    top: 20%; 
+    right: 10px; 
+    width: 350px; 
+    background-color: #f4f4f4; 
+    border: 1px solid #ddd; 
+    padding: 15px;
+    border-radius: 10px; 
+}
+
+footer{
+    background-color: rgb(35, 16, 104);
+    text-align: center;
+    color: #ddd;
+}
+
+input[type="text"]{
+    background-color: transparent;
+    border-color: darkblue;
+    border-radius: 5px;
+}
+
+input[type="password"]{
+    background-color: transparent;
+    border-color: darkblue;
+    border-radius: 5px;
+}
+
+article {
+    border: 1px solid black;
+    border-radius: 5px;
+    text-align: center; 
+    padding: 15px;
+    width: 500px;
+    background-color: white;
+    margin: 10px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+section img{
+    width: 200px;
+    height: auto;
+}
+
+textarea{
+    height: 300px;
+    width: 340px;
+}
+
+aside h2{
+    background-color: rgb(11, 11, 95);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.boton{
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+

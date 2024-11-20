@@ -2,6 +2,7 @@ body {
     background-color: #edece3;
     color: #1c1c1c;
     font-family: 'Times New Roman', Times, serif;
+    text-align: left;
 }
 
 header{
@@ -78,7 +79,6 @@ footer {
 }
 
 .container {
-    text-align: left;
     margin: 0 auto;
 }
 
@@ -166,7 +166,10 @@ img {
 
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 379b356162d8d60e35a0f261126dd0624cfafe64
 footer > p{
     color: white;
 }
@@ -177,5 +180,14 @@ footer > h2 {
 
 nav{
     text-align: center;
+<<<<<<< HEAD
 }
 
+=======
+    
+}
+
+nav a{
+    text-decoration: none;
+}
+>>>>>>> 379b356162d8d60e35a0f261126dd0624cfafe64
