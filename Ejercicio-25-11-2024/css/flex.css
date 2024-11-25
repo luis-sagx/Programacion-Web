@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+
+body{
+    height: 100%;
+    background-color: aliceblue;
+}
+
+.container{
+    display: flex;
+    border: 1px solid skyblue;
+    height: 500px;
+    width: 40%;
+}
+
+.container div{
+    height: 100px;
+}
+
+/* Detalle de los valores flex  
+    flex: 1 1 100px; -> flex-grow flex-shrink fles-basis
+    flex-grow -> cuanto crece el elemento respecto al espacio disponible
+    flex-shrink -> cuanto se reduce el elemento respecto al espacio disponible 
+    fles-basis -> tamano inicial - antes que se aplique grow o shrink
+
+*/
+
+
+.item-1{
+    flex: 0 0 100px;
+    background-color: red;
+}
+
+.item-2{
+    flex: 2 2 200px;
+    background-color: green;
+}
+
+.item-3{
+    flex: 1 1 100px;
+    background-color: chocolate;
+}
+
+.item-4{
+    flex: 1 1 100px;
+    background-color: yellow;
+}

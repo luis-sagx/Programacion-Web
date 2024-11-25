@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 10px;
+}
+
+header h1{
+    color: aliceblue;
+}
+
+
+#noticias{
+    margin: 20px auto;
+    width: 90%;
+    padding: 10px;
+    box-shadow: black 0px 0px 10px;
+
+    /* creacion de columnas para article */
+
+    column-count: 3;
+    column-gap: 20px;
+
+    /* column-rule-style: dotted;
+    column-rule-color: red;
+    column-rule-width: 10px; */
+
+    column-rule: 2px dotted black;
+    
+}
+
+footer{
+    background-color: blue;
+    color: aliceblue;
+}

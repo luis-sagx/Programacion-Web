@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    padding: 20px;
+    background-color: rgb(28, 28, 138);
+}
+
+header h1{
+    color: aliceblue;
+}
+
+nav{
+    width: 100%;
+    background-color: rgb(70, 103, 209);
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    padding: 1rem;
+}
+
+.flex-content{
+    background-image: url('../imagenes/background.webp');
+    width: 100%;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.articulos{
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0,0,0,.1);
+    width: 60%;
+    margin-left: 10rem;
+}
+
+aside{
+    flex: 1 1 25%;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    height: 200px;
+}
+
+.flex-article {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los elementos salten a una nueva línea si es necesario */
+    gap: 10px;
+    align-items: center;
+    margin: 10px;
+}
+
+.flex-article p {
+    flex: 1; /* Permite que el texto ocupe el espacio restante */
+    margin: 0;
+}
+
+.flex-article img {
+    width: 200px; /* Tamaño fijo para la imagen */
+    max-width: 100%; /* Evita que crezca más allá del contenedor */
+    height: auto; /* Mantiene la proporción */
+    flex-shrink: 0; /* Evita que se reduzca más allá de su tamaño fijo */
+}
+
+.fecha{
+    position: absolute;
+    left: 50px;
+    width: 110px;
+    background-color: rgb(31, 63, 168);
+    border-radius: 5px;
+    padding: 4px;
+    margin-top: 1rem;
+}
+
+.flex-img{
+    display: flex;
+}
+
+footer{
+    background-color: rgb(44, 44, 199);
+    color: aliceblue;
+}
+
+
