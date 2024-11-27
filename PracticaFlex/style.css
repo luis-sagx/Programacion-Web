@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+}
+
+header{
+    padding: 15px;
+    background-color: rgb(13, 13, 133);
+}
+
+header h1{
+    padding: 10px;
+    margin-left: 70px;
+    color: aliceblue;
+}
+
+nav{
+    background-color: rgb(0, 85, 255);
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    margin-left: 50px;
+}
+
+nav ul li{
+    padding:10px;
+}
+
+.flex-container{
+    background-image: url(./imagenes/fondo.jpg);
+    display: flex;
+}
+
+.fecha{
+    margin-top: 50px;
+    margin-left: 10px;
+    position: absolute;
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius: 5px;
+    text-align: center;
+    width: 65px;
+    height: 60px;
+    align-content: center;
+}
+
+article{
+    display: flex;
+}
+
+.flex-info {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los elementos se apilen si no hay suficiente espacio */
+}
+
+.flex-info p {
+    flex: 1 1; /* Permite que el párrafo ocupe todo el espacio disponible */
+    margin: 10px;
+}
+
+.flex-info img {
+    width: 200px;
+    flex: 0 0 auto; /* Evita que la imagen crezca o se reduzca */
+}
+
+.content{
+    flex: 1 1 60%;
+    margin-left: 50px;
+}
+
+aside{
+    flex: 1 1 20%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    height: 250px;
+    margin: 50px 30px 0px 0px;
+    padding: 30px;
+    text-align: justify;
+}
+
+.articulo{
+    border-radius: 10px;
+    margin: 30px 70px;
+    padding: 15px 30px;
+    background-color: aliceblue;
+}
+
+footer{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+}
