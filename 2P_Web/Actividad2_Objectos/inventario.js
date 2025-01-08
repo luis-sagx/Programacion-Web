@@ -47,7 +47,7 @@ const aplicarDescuento = (porcentaje) => {
         let item = inventario[key];
         let descuento = item.precio * (porcentaje / 100);
         if (descuento <= item.precio){
-            item.precio = item.precio - descuento;
+            item.precio -= descuento;
         } else {
             item.precio = 0;
         }
