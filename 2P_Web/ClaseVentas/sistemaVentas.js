@@ -1,87 +1,80 @@
 class Producto {
     static contadorProductos = 0;
 
-    constructor(nombre, precio, stock, categoria){
+    constructor(nombre, precio, stock, categoria) {
         this._idProducto = ++Producto.contadorProductos;
         this._nombre = nombre;
-        this._precio = precio;
+        if (precio > 0) {
+            this._precio = precio;
+        } else {
+            console.error("precio incorrecto");
+            this._precio = 0;
+        }
         this._stock = stock;
         this._categoria = categoria;
     }
 
-    get idProdcto(){
+    get idProdcto() {
         return this._idProducto;
     }
 
-    get nombre(){
+    get nombre() {
         return this._nombre;
     }
 
-    set nombre(nombre){
+    set nombre(nombre) {
         this._nombre = nombre;
     }
 
-    get precio(){
+    get precio() {
         return this._precio;
     }
 
-    set precio(precio){
+    set precio(precio) {
         this._precio = precio;
     }
 
-    get stock(){
+    get stock() {
         return this._stock;
     }
 
-    set stock(stock){
+    set stock(stock) {
         this._stock = stock;
     }
 
-    get categoria(){
+    get categoria() {
         return this._categoria;
     }
 
-    set categoria(categoria){
+    set categoria(categoria) {
         this._categoria = categoria;
     }
 
-    toString(){
+    toString() {
         return `Id producto: ${this._idProducto}, Nombre: ${this._nombre}, Precio: ${this._precio}`
-    }
-
-    reducirStock(cantidad){
-        if(cantidad > 0 && this._stock >= cantidad){
-            this._stock -= cantidad;
-            console.log(`El producto ${this._nombre} ha sido vendido, cantidad: ${cantidad}. Stock restante: ${this._stock}`);
-        } else if(cantidad <= 0) {
-            console.error("La cantidad a vender debe ser mayor que 0");
-        } else {
-            console.error(`No hay suficiente stock de ${this._nombre} para realizar la venta`);
-        }
     }
 }
 
-class Orden{
+class Orden {
     static contadorOrdenes = 0;
-    static get MAX_PRODUCTOS(){
+    static get MAX_PRODUCTOS() {
         return 5;
-    };
-    constructor(){
-        this._idOrden = ++Orden.contadorOrdenes;
-        this._productos = [];
-        this._contadorProductosAgregados = 0;
     }
 
-    get idOrden(){
+    constructor() {
+        this._idOrden = ++Orden.contadorOrdenes;
+        this._productos = [];
+    }
+
+    get idOrden() {
         return this._idOrden;
     }
 
-    agregarProducto(producto, cantidad){
-        //Verificar si no hemos superado el maximo de productos existentes
-        if(this._productos.length < Orden.MAX_PRODUCTOS){
-            if(producto.stock >= cantidad){
-                this._productos.push({producto, cantidad});
-                producto.reducirStock(cantidad);
+    agregarProducto(producto) {
+        if (this._productos.length < Orden.MAX_PRODUCTOS) {
+            if (producto.stock > 1) {
+                this._productos.push(producto);
+                producto.stock--;
             } else {
                 console.log(`No hay suficiente stock de ${producto.nombre} para agregar a la orden`);
             }
@@ -90,7 +83,8 @@ class Orden{
         }
     }
 
-    calcularTotal(){
+
+    calcularTotal() {
         let totalVenta = 0;
         for (const product of this._productos) {
             totalVenta += product.precio;
@@ -98,39 +92,19 @@ class Orden{
         return totalVenta;
     }
 
-    manejarStock(nombreProducto, cantidad){
-        if(cantidad > 0){
-            let productoEncontrado = null;
-            for (const item of this._productos) {
-                if(item.producto.nombre === nombreProducto){
-                    productoEncontrado = item.producto;
-                    break;
-                }
-            }
-            
-            if(productoEncontrado){
-                productoEncontrado.reducirStock(cantidad);
-            } else {
-                console.error(`Producto ${nombreProducto} no encontrado en la orden`);
-            }
-        } else {
-            console.error("Cantidad inválida");
-        }
-    }
-
     aplicarDescuento(categoria, porcentaje) {
-        if(porcentaje > 0 && porcentaje <= 100){
-            for (const producto of this._productos) {
+        if (porcentaje > 0 && porcentaje <= 100) {
+            this._productos.forEach(producto => {
                 if (producto.categoria === categoria) {
-                    producto.actualizarPrecio = producto.precio * (1 - porcentaje / 100);
+                    producto.precio *= 1 - porcentaje / 100;
                 }
-            }
+            });
         } else {
-            console.error("Porcentaje invalido");
+            console.error("Porcentaje inválido");
         }
     }
 
-    calcularImpuestos(impuesto){
+    calcularImpuestos(impuesto) {
         let precioIVA = this.calcularTotal();
         precioIVA += (precioIVA * impuesto);
         return precioIVA;
@@ -141,7 +115,7 @@ class Orden{
         return productosOrdenados;
     }
 
-    mostrarOrden(){
+    mostrarOrden() {
         let productosOrden = "";
         for (const product of this._productos) {
             productosOrden += product.toString() + " ";
@@ -150,7 +124,7 @@ class Orden{
     }
 }
 
-let producto1 = new Producto("Laptop", 500, 10, "Tecnologia");
+let producto1 = new Producto("Laptop", -1, 10, "Tecnologia");
 let producto2 = new Producto("Mouse", 30, 30, "Tecnologia");
 
 let orden1 = new Orden();
@@ -166,17 +140,26 @@ orden2.agregarProducto(producto1);
 orden2.agregarProducto(producto2);
 orden2.agregarProducto(producto3);
 orden2.agregarProducto(producto2);
-orden2.agregarProducto(producto3);
 orden2.mostrarOrden();
 
 let producto4 = new Producto("Gorra", 10, 40, "Ropa");
-let producto5 = new Producto("Saco", 20, 20, "Ropa");
+let producto5 = new Producto("Saco", 20, 1, "Ropa");
 
 let orden3 = new Orden();
 orden3.aplicarDescuento("Tecnologia", 20);
 orden2.agregarProducto(producto1);
 orden2.agregarProducto(producto2);
-orden2.agregarProducto(producto4);
+orden2.agregarProducto(producto5);
+
+orden3.mostrarOrden();
+
+let orden4 = new Orden();
+orden4.agregarProducto(producto4);
+orden4.agregarProducto(producto5);
+orden4.mostrarOrden();
+
+
+
 
 
 
