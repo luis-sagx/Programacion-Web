@@ -7,8 +7,7 @@ class Producto {
         if (precio > 0) {
             this._precio = precio;
         } else {
-            console.error("precio incorrecto");
-            this._precio = 0;
+            throw new Error ("precio incorrecto");
         }
         this._stock = stock;
         this._categoria = categoria;
@@ -72,7 +71,7 @@ class Orden {
 
     agregarProducto(producto) {
         if (this._productos.length < Orden.MAX_PRODUCTOS) {
-            if (producto.stock > 1) {
+            if (producto.stock > 0) {
                 this._productos.push(producto);
                 producto.stock--;
             } else {
@@ -105,9 +104,15 @@ class Orden {
     }
 
     calcularImpuestos(impuesto) {
-        let precioIVA = this.calcularTotal();
-        precioIVA += (precioIVA * impuesto);
-        return precioIVA;
+        if (impuesto < 0) {
+            throw new Error('El impuesto debe ser un número válido mayor o igual a 0');
+        } else {
+            const precioBase = this.calcularTotal();
+            const precioConImpuesto = precioBase + (precioBase * impuesto/100);
+        
+            return precioConImpuesto;
+        }
+    
     }
 
     listarProductos() {
@@ -120,11 +125,11 @@ class Orden {
         for (const product of this._productos) {
             productosOrden += product.toString() + " ";
         }
-        console.log(`Orden: ${this._idOrden}, Total: $${this.calcularTotal()}, Productos: {${productosOrden}}`);
+        console.log(`Orden: ${this._idOrden}, Total: $${this.calcularImpuestos(16)}, Productos: {${productosOrden}}`);
     }
 }
 
-let producto1 = new Producto("Laptop", -1, 10, "Tecnologia");
+let producto1 = new Producto("Laptop", 500, 10, "Tecnologia");
 let producto2 = new Producto("Mouse", 30, 30, "Tecnologia");
 
 let orden1 = new Orden();
@@ -140,6 +145,7 @@ orden2.agregarProducto(producto1);
 orden2.agregarProducto(producto2);
 orden2.agregarProducto(producto3);
 orden2.agregarProducto(producto2);
+orden2.agregarProducto(producto2);
 orden2.mostrarOrden();
 
 let producto4 = new Producto("Gorra", 10, 40, "Ropa");
@@ -147,9 +153,9 @@ let producto5 = new Producto("Saco", 20, 1, "Ropa");
 
 let orden3 = new Orden();
 orden3.aplicarDescuento("Tecnologia", 20);
-orden2.agregarProducto(producto1);
-orden2.agregarProducto(producto2);
-orden2.agregarProducto(producto5);
+orden3.agregarProducto(producto1);
+orden3.agregarProducto(producto2);
+orden3.agregarProducto(producto5);
 
 orden3.mostrarOrden();
 
