@@ -1,0 +1,12 @@
+<button id="miBoton">Haz clic aquí</button>
+
+<script>
+  const boton = document.getElementById("miBoton");
+
+  function manejarClic() {
+    alert("¡El botón fue clickeado!");
+  }
+
+  // Usamos la función callback para manejar el evento de clic
+  boton.addEventListener("click", manejarClic);
+</script>
