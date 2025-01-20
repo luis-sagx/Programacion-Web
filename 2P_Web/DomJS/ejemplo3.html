@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .title{
+            color: purple;
+        }
+    </style>
+    <title>DOM EN JS</title>
+</head>
+<body>
+    <h1 id="titulo1" class="title">Manejo del DOM en JS</h1>
+    <h1 id="titulo2" class="title">Titulo 2</h1>
+    <button id="mostrarValores" onclick="mostrar()" type="submit">Mostrar</button>
+    <br>
+    <img id="imagen" src="https://th.bing.com/th/id/R.2eebc0d91a5735fe96dc86351419eb49?rik=HE%2bdXvdgR8YLQA&pid=ImgRaw&r=0" alt="img1">
+    <br>
+
+    <script>
+        // document.white("saludos desde write");
+        function mostrar(){
+            let elementos = document.getElementsByClassName("title");
+            for (const element of elementos) {
+                element.innerHTML = "<br>Nuevo Titulo";
+            }
+
+            document.getElementById("imagen").src = "https://th.bing.com/th/id/OIP.vcPu1cCeBgsdSNPBCjE4QwHaEK?rs=1&pid=ImgDetMain"
+        }
+    </script>
+</body>
+</html>

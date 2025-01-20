@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .azul{
+            color: blue;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .rojo{
+            color: red;
+        }
+    </style>
+    <title>DOM en JS</title>
+</head>
+<body>
+    <form id="formulario">
+        Nombre: <input type="text" name="nombre" value="Juan">
+        <br>
+        Apellido: <input type="text" name="apellido" value="Perez">
+        <br>
+        Correo: <input type="email" name="correo" value="luis@example.com">
+    </form>
+    <button id="mostrarValores" onclick="mostrarValores()" type="submit">Mostrar Valores</button>
+    <br>
+    <div id="valores">
+
+    </div>
+    <script>
+        function mostrarValores(){
+            // let formulario = document.forms["formulario"];
+            // let texto = "";
+            // for (const element of formulario) {
+            //     texto += element.value + "<br>";
+            // }
+
+            // document.getElementById("valores").innerHTML = texto;
+
+            //Traer informacion de forma individual, es decir sin iterar
+
+            let nombre = formulario["nombre"];
+            let apellido = formulario["apellido"];
+            let correo = formulario["correo"];
+
+            texto = nombre.value + "<br>" + apellido.value + "<br>" + correo.value;
+            document.getElementById("valores").innerHTML = texto
+
+        }
+    </script>
+</body>
+</html>

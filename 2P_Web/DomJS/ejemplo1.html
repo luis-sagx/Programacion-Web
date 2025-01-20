@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .azul{
+            color: blue;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .rojo{
+            color: red;
+        }
+    </style>
+    <title>DOM en JS</title>
+</head>
+<body>
+    <header>
+        <h1 id="cabecera" class="azul">Titulo del doc</h1>
+        <p id="parrafo1" class="rojo">Parrafo #1</p>
+        <p id="parrafo2" class="azul">Parrafo #2</p>
+        <p id="parrafo3" class="rojo">Parrafo #3</p>
+    </header>
+    <script>
+        // //Usar getElementById
+        // let cabecera = document.getElementById("cabecera"); //Retorna un objeto con sus atributos
+        // console.log("valor cabecera: " +cabecera.innerHTML);
+
+        // console.log(`Valor cabecera: ${cabecera.innerHTML}`);
+
+        // let parrafo = document.getElementById("parrafo");
+        // console.log(`Valor parrafo: ${parrafo.innerHTML}`);
+
+        // parrafo.innerHTML = "Nuevo Valor de parrafo";
+        // console.log(`Valor nuevo parrafo: ${parrafo.innerHTML}`);
+
+        // cabecera.innerHTML = "Cambio de cabecera";
+        // console.log(`Valor nuevo parrafo: ${cabecera.innerHTML}`);
+
+
+        // let parrafos = document.getElementsByTagName("p");
+        // console.log(`Numero de parrafos: ${parrafos.length}`);
+
+        // for (const elements of parrafos) {
+        //     console.log(elements.innerHTML);
+        // }
+
+        // let elementos = document.getElementsByClassName("azul");
+        // console.log(`Numero de elementos azul: ${elementos.length}`);
+
+        let elementos = document.querySelectorAll("p.azul");
+        console.log(`Numero de elementos azul p: ${elementos.length}`);
+
+        for (const elements of elementos) {
+            console.log(elements.innerHTML);
+        }
+
+        elementos = document.querySelector("p.azul");
+        console.log(`Numero de elementos azul p: ${elementos.innerHTML}`);
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagenes DOM</title>
+</head>
+<body>
+    <img id="imagen" src="img/codigo.jpg" alt="img1" height="300px">
+</body>
+
+<script>
+    const imagenes = [
+        "img/futbol.jpg",
+        "img/hacker.jpg",
+        "img/hello.jpg",
+        "img/js.jpg",
+        "img/codigo.jpg"
+    ];
+
+    let contador = 0;
+
+    const intervalo = setInterval(function() {
+        document.getElementById("imagen").src = imagenes[contador];
+        contador++;
+        if (contador >= imagenes.length) {
+            contador = 0;
+        }
+    }, 2000); 
+</script>
+</html>
