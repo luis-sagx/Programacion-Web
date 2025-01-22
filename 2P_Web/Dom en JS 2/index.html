@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manejo de eventos con Dom en Js</title>
+</head>
+<body>
+    <!-- <h1 id="titulo" onclick="mostrar(this)">Evento Onclick()</h1>  -->
+    <!-- this extrae toda la info que tiene el elemento -->
+    
+    <!-- <button type="button" id="brnMostrar" onclick="mostrar()">Mostrar</button> -->
+    
+    <!-- <h1 id="titulo">Evento Onload</h1>  -->
+    <!-- esto se ejecuta cuando se termina de cargar la pagina -->
+
+    <!-- <div id="mostrar"></div>
+
+    Nombre: <input type="text" onchange="convertir(this)"> -->
+
+    <!-- <h1 id="titulo" onmouseover="rojo(this)" onmouseout="azul(this)">Titulo oumouse</h1> -->
+
+    <!-- <h1 id="titulo">Evento onfocus y onblur</h1>
+    <br><br>
+    Nombre: <input type="text" onfocus="cambiar(this)" onblur="regresar(this)">
+    <br><br>
+    Apellido: <input type="text" onfocus="cambiar(this)" onblur="regresar(this)">
+    <br><br> -->
+
+
+    <h1 id="titulo">Eventos addListener</h1>
+    <br><br>
+    Nombre: <input type="text" ">
+    <br><br>
+    Apellido: <input type="text" ">
+    <br><br>
+
+
+    <script>
+        // function mostrar(){
+        //     document.getElementById("titulo").innerHTML = 'Nuevo texto implementado';
+        // }
+
+        // function mostrar(titulo){
+        //     titulo.innerHTML = 'cambiamos el titulo';
+        // }
+
+
+        // document.getElementById('titulo').onclick = cambiarTexto; //Se realiza haciendo una referencia , no estamos llamando a una funcion.
+        // function cambiarTexto(){
+        //     document.getElementById('titulo').innerHTML = 'Otro nuevo cambio de titulo'
+        // }
+
+        // function entrar(){
+        //     alert('entrando a la pagina web');
+
+        //     //Cookis
+
+        //     //Son archivos que guardan informacion cuando navegamos en la web
+
+        //     //Verificar que las cookies estan habilitados en el navegador
+        //     let texto = "";
+        //     if(navigator.cookieEnabled){
+        //         texto = "Cookies estan habilitadas";
+        //     } else {
+        //         texto = "Cookies NO estan habilitadas";
+        //     }
+
+        //     document.getElementById('mostrar').innerHTML = texto;
+        // }
+        
+        // function convertir(this){
+        //     input.value = input.value.toUpperCase();
+
+        // }
+
+        // function rojo(titulo){
+        //     titulo.style.color = 'red';
+        // }
+
+        // function azul(titulo){
+        //     titulo.style.color = 'blue';
+        // }
+
+        // function cambiar(elementImput){
+        //     elementImput.style.background = 'yellow';
+        // }
+
+        // function regresar(elementImput){
+        //     elementImput.style.background = 'white';
+        // }
+
+        // document.getElementById('nombre').addEventListener('focus', cambiar);
+        // document.getElementById('nombre').addEventListener('blur', regresar);
+        // document.getElementById('apellido').addEventListener('focus', cambiar);
+        // document.getElementById('apellido').addEventListener('blur', regresar);
+
+        let formulario = document.getElementById('formulario');
+
+        formulario.addEventListener('focus', (evento) => {
+            event.target.style.background = ""
+        }, true);
+        formulario.addEventListener('blur', (evento) => {
+            event.target.style.background = "pink"
+        }, true);
+        formulario.addEventListener('focus', (evento) => {
+            event.target.style.background = ""
+        }, true);
+        formulario.addEventListener('blur', (evento) => {
+            event.target.style.background = "pink"
+        }, true);
+
+        function cambiar(evento){
+            let component = event.target;
+            component.style.background = 'yellow';
+        }
+
+        function regresar(evento){
+            let component = event.target;
+            component.style.background = 'white';
+        }
+
+    </script>
+
+</body>
+</html>
