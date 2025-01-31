@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="container">
+        <h1 id="titulo">DOM en JS</h1>
+        <button id="boton-panel">Mostrar Panel</button>
+        <div id="panel-configuracion" style="display: none;">
+            <select id="seleccionar-colores">
+                <option value="white">Blanco</option>
+                <option value="black">Negro</option>
+                <option value="blue">Azul</option>
+            </select>
+
+            Nuevo titulo: <input type="text" id="nuevoTitulo" placeholder="Ingrese el nuevo titulo">
+            <input type="checkbox" id="habilitar">
+            
+            <textarea id="comentarios" style="display: none;"></textarea>
+
+            <ul id="lista">
+                <li>Elemento 1</li>
+                <li>Elemento 2</li>
+                <li>Elemento 3</li>
+            </ul>
+            <input type="text" id="nuevoElemento" placeholder="Agrega un elemento">
+            <button id="agregarElemento">Agregar Elemento</button>
+        </div>
+    </div>
+
+    <script>
+        const boton = document.getElementById('boton-panel');
+        boton.addEventListener('click',(() => {
+            let panel = document.getElementById("panel-configuracion");
+            if (panel.style.display === 'none'){
+                panel.style.display = 'block';
+                boton.innerHTML = 'Ocultar Panel'
+            } else{
+                panel.style.display = 'none';
+                boton.innerHTML = 'Mostrar Panel'
+            }
+        }));
+
+        const colores = document.getElementById('seleccionar-colores');
+        colores.addEventListener('click',(() => {
+            document.body.style.backgroundColor = colores.value;
+        }))
+
+        const nuevoTitulo = document.getElementById('nuevoTitulo');
+        nuevoTitulo.addEventListener('input',(() => {
+            document.getElementById('titulo').innerHTML = nuevoTitulo.value;
+        }))
+
+        const habilitarComentarios = document.getElementById('habilitar');
+        habilitarComentarios.addEventListener('click',(() => {
+            let comentarios = document.getElementById('comentarios');
+            if(habilitarComentarios.checked){
+                comentarios.style.display = 'block';
+            } else {
+                comentarios.style.display = 'none';
+            }
+        }))
+
+        let nuevoElementoTexto = document.getElementById('nuevoElemento').value;
+
+        let nuevoElemento = document.createElement('li');
+        nuevoElemento.textContent = nuevoElementoTexto;
+        
+        document.getElementById('lista').appendChild(nuevoElemento)
+        
+        nuevoElemento.addEventListener('click',(() => {
+            nuevoElemento.remove();
+        }))
+
+        const botonAgregarElemento = document.getElementById('agregarElemento');
+        botonAgregarElemento.addEventListener('click', () => {
+            const lista = document.getElementById('lista');
+            const nuevoElementoTexto = document.getElementById('nuevoElemento').value;
+            const nuevoElemento = document.createElement('li');
+            nuevoElemento.textContent = nuevoElementoTexto;
+
+            nuevoElemento.addEventListener('click', () => {
+                nuevoElemento.remove();
+            });
+
+            lista.appendChild(nuevoElemento);
+
+            document.getElementById('nuevoElemento').value = '';
+        });
+
+
+    </script>
+</body>
+</html>
