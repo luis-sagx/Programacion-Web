@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC73843-A622-4100-918C-21336FFA62A3}|practica1\\practica1.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\practica1\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC73843-A622-4100-918C-21336FFA62A3}|practica1\\practica1.csproj|solutionrelative:practica1\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCE12F1-4EE4-4744-AAAD-3CE286A786E6}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\capanegocios\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCE12F1-4EE4-4744-AAAD-3CE286A786E6}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E88E9-B9EC-480C-A780-84ECDA70F5C3}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\capaentidad\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E88E9-B9EC-480C-A780-84ECDA70F5C3}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9C88F-5B3D-4C38-B458-4AFCAAFBA950}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9C88F-5B3D-4C38-B458-4AFCAAFBA950}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9C88F-5B3D-4C38-B458-4AFCAAFBA950}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\capadatos\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9C88F-5B3D-4C38-B458-4AFCAAFBA950}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\basedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF9C88F-5B3D-4C38-B458-4AFCAAFBA950}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF9C88F-5B3D-4C38-B458-4AFCAAFBA950}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9E88E9-B9EC-480C-A780-84ECDA70F5C3}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\capaentidad\\tipomedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9E88E9-B9EC-480C-A780-84ECDA70F5C3}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\tipomedicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC73843-A622-4100-918C-21336FFA62A3}|practica1\\practica1.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\practica1\\practica1\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9AC73843-A622-4100-918C-21336FFA62A3}|practica1\\practica1.csproj|solutionrelative:practica1\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SucursalController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\practica1\\Controllers\\SucursalController.cs",
+              "RelativeDocumentMoniker": "practica1\\Controllers\\SucursalController.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\practica1\\Controllers\\SucursalController.cs",
+              "RelativeToolTip": "practica1\\Controllers\\SucursalController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:43.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SucursalBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaNegocios\\SucursalBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\SucursalBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaNegocios\\SucursalBL.cs",
+              "RelativeToolTip": "CapaNegocios\\SucursalBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:11:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaEntidad\\Sucursal.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaEntidad\\Sucursal.cs",
+              "RelativeToolTip": "CapaEntidad\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:10:57.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaDatos\\SucursalDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaDatos\\SucursalDAL.cs",
+              "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:34:01.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoMedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:26:01.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaDatos\\BaseDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\BaseDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaDatos\\BaseDAL.cs",
+              "RelativeToolTip": "CapaDatos\\BaseDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:36:50.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoMedicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaEntidad\\TipoMedicamento.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\TipoMedicamento.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\CapaEntidad\\TipoMedicamento.cs",
+              "RelativeToolTip": "CapaEntidad\\TipoMedicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:25:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "medicamento.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\practica1\\wwwroot\\js\\medicamento.js",
+              "RelativeDocumentMoniker": "practica1\\wwwroot\\js\\medicamento.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\practica1\\practica1\\wwwroot\\js\\medicamento.js",
+              "RelativeToolTip": "practica1\\wwwroot\\js\\medicamento.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-09T03:27:56.812Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\bin\Debug\net9.0\CapaDatos.deps.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.sourcelink.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.csproj.Up2Date
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\refint\CapaDatos.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\CapaDatos.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\practica1\CapaDatos\obj\Debug\net9.0\ref\CapaDatos.dll
