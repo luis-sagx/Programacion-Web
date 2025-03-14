@@ -3,104 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capanegocios\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\generico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\generico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\generico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\generico.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capanegocios\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capanegocios\\tipomedicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,16 +35,116 @@
       "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\tipomedicamento\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\tipomedicamento\\inicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\tipomedicamento\\sinmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capanegocios\\medicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\medicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\medicamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\laboratoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\laboratorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5C3A1FE-C85A-4339-B47B-CB029E26EDD2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capanegocios\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\laboratoriobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\tipomedicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\controllers\\sucursalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capanegocios\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{857F0D62-515D-4589-8191-F073B3693564}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\miprimeraappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DAE7DE-349F-4B5F-AC18-4960C6930EA9}|MiPrimeraAppMVC\\MiPrimeraAppMVC.csproj|solutionrelative:miprimeraappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\3p_web\\miprimeraappmvc\\capaentidad\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A42B449-AEAB-46F9-B180-8A87FAD0CB15}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,267 +154,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T17:43:48.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\appsettings.json",
-              "RelativeToolTip": "MiPrimeraAppMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T16:24:58.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-17T17:44:51.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LaboratorioBL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\LaboratorioBL.cs",
-              "RelativeDocumentMoniker": "CapaNegocios\\LaboratorioBL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\LaboratorioBL.cs",
-              "RelativeToolTip": "CapaNegocios\\LaboratorioBL.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:31:45.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "laboratorio.js",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
-              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
-              "ViewState": "AgIAABEAAAAAAAAAAAAuwBwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-17T17:22:39.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T17:21:01.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LaboratorioController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:20:38.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LaboratorioDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\LaboratorioDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\LaboratorioDAL.cs",
-              "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwvzkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:11:58.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Laboratorio.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Laboratorio.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Laboratorio.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Laboratorio.cs",
-              "RelativeToolTip": "CapaEntidad\\Laboratorio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T17:09:32.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CadenaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\CadenaDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\CadenaDAL.cs",
-              "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:09:35.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T02:29:55.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SucursalBL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\SucursalBL.cs",
-              "RelativeDocumentMoniker": "CapaNegocios\\SucursalBL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\SucursalBL.cs",
-              "RelativeToolTip": "CapaNegocios\\SucursalBL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:09:40.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TipoMedicamentoBL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\TipoMedicamentoBL.cs",
-              "RelativeDocumentMoniker": "CapaNegocios\\TipoMedicamentoBL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\TipoMedicamentoBL.cs",
-              "RelativeToolTip": "CapaNegocios\\TipoMedicamentoBL.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:08:16.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "generico.js",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\generico.js",
               "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\generico.js",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\generico.js",
               "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\generico.js",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAkwH4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAmwLMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-09T02:31:02.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T03:20:10.761Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SucursalDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\SucursalDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\SucursalDAL.cs",
-              "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T16:35:59.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TipoMedicamentoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\TipoMedicamentoDAL.cs",
-              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\TipoMedicamentoDAL.cs",
-              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAtwDAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:06:36.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Inicio.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\Inicio.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\Inicio.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\Inicio.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\Inicio.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T02:29:58.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwCQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T02:31:47.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TipoMedicamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAkwCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:22:31.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "sucursal.js",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js",
               "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js",
               "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-14T16:16:27.018Z",
+              "WhenOpened": "2025-02-21T03:22:02.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tipoMedicamento.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-21T16:14:43.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 2,
+              "Title": "TipoMedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAADkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:23:49.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "medicamento.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
+              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-21T03:21:59.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\appsettings.json",
+              "RelativeToolTip": "MiPrimeraAppMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T02:46:24.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoMedicamentoBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\TipoMedicamentoBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\TipoMedicamentoBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\TipoMedicamentoBL.cs",
+              "RelativeToolTip": "CapaNegocios\\TipoMedicamentoBL.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:32:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Medicamento\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T16:25:52.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoMedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\TipoMedicamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:09:23.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Laboratorio\\Index.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:15:41.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:08:48.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T02:31:25.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:45:21.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T16:14:54.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "laboratorio.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
+              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-21T03:20:48.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\MedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\MedicamentoDAL.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswEcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:35:43.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\site.js",
@@ -398,121 +372,235 @@
               "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-09T02:32:18.193Z"
+              "WhenOpened": "2025-02-24T23:03:43.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "medicamento.js",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
-              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-09T02:31:16.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SucursalController.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "Medicamento.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Medicamento.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Medicamento.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Medicamento.cs",
+              "RelativeToolTip": "CapaEntidad\\Medicamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:13:07.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T23:34:16.753Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "tipoMedicamento.js",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
-              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-09T02:32:04.903Z",
-              "EditorCaption": ""
+              "DocumentIndex": 16,
+              "Title": "MedicamentoBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\MedicamentoBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\MedicamentoBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\MedicamentoBL.cs",
+              "RelativeToolTip": "CapaNegocios\\MedicamentoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T23:44:39.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Sucursal\\Index.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAoAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MiPrimeraAppMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-24T16:15:08.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-14T16:15:26.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Sucursal.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Sucursal.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Sucursal.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Sucursal.cs",
-              "RelativeToolTip": "CapaEntidad\\Sucursal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T16:09:17.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SinMenu.cshtml",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\TipoMedicamento\\SinMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-09T02:23:24.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TipoMedicamentoCLS.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\TipoMedicamentoCLS.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\TipoMedicamentoCLS.cs",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\TipoMedicamentoCLS.cs",
-              "RelativeToolTip": "CapaEntidad\\TipoMedicamentoCLS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:07:08.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T16:28:19.621Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "LaboratorioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAuwLQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:33:33.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:18:21.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "MedicamentoController.cs",
               "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\MedicamentoController.cs",
               "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\MedicamentoController.cs",
               "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\MedicamentoController.cs",
               "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\MedicamentoController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T02:22:35.285Z"
+              "WhenOpened": "2025-02-26T23:04:27.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LaboratorioController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\LaboratorioController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:40:44.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CadenaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\CadenaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\CadenaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:35:15.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Laboratorio.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Laboratorio.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Laboratorio.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Laboratorio.cs",
+              "RelativeToolTip": "CapaEntidad\\Laboratorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:27:11.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\SucursalDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaDatos\\SucursalDAL.cs",
+              "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwIgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:46:20.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LaboratorioBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\LaboratorioBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\LaboratorioBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\LaboratorioBL.cs",
+              "RelativeToolTip": "CapaNegocios\\LaboratorioBL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:34:35.16Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\libman.json",
-              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\libman.json",
-              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\libman.json",
-              "RelativeToolTip": "MiPrimeraAppMVC\\libman.json",
+              "Title": "TipoMedicamentoCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\TipoMedicamentoCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\TipoMedicamentoCLS.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\TipoMedicamentoCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\TipoMedicamentoCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:10:05.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SucursalController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Controllers\\SucursalController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:48:56.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SucursalBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\SucursalBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\SucursalBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaNegocios\\SucursalBL.cs",
+              "RelativeToolTip": "CapaNegocios\\SucursalBL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:48:02.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-09T02:56:37.076Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T21:01:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:18:32.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAppMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\Program.cs",
+              "RelativeToolTip": "MiPrimeraAppMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T05:11:21.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Sucursal.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\CapaEntidad\\Sucursal.cs",
+              "RelativeToolTip": "CapaEntidad\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:47:59.437Z"
             }
           ]
         }

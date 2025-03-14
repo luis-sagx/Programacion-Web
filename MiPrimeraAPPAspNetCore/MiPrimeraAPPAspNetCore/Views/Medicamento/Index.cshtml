@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="display-6 text-primary text-center fw-bold"><i class="fa fa-pills"></i>  Medicamentos</h1>
+
+
+<br />
+
+<button type="button" class="btn btn-success" data-bs-toggle="modal" onclick="MostrarModal()">
+    Nuevo Medicamento
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-plus-fill" viewBox="0 0 16 16">
+        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M8.5 7v1.5H10a.5.5 0 0 1 0 1H8.5V11a.5.5 0 0 1-1 0V9.5H6a.5.5 0 0 1 0-1h1.5V7a.5.5 0 0 1 1 0" />
+    </svg>
+</button>
+
+<br />
+
+
+<!-- Modal -->
+<div class="modal fade" id="modalMedicamento" tabindex="-1" aria-labelledby="modalMedicamentoLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalMedicamentoLabel">Agregar Medicamento</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmMedicamento" method="post" class="row g-3">
+                    <div class="col-md-3">
+                        <label for="inputIdLabModal" class="form-label">Id Medicamento</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idMedicamento" id="idMedicamento" placeholder="Id Medicamento" readonly>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="inputCodigoModal" class="form-label">Codigo</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="codigo" id="codigo" placeholder="codigo">
+                        <div class="invalid-feedback">Por favor, ingrese el código.</div>
+                    </div>
+                    <div class="col-md-5">
+                        <label for="inputNombreModal" class="form-label">Nombre Medicamento</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="nombreMedicamento" id="nombreMedicamento" placeholder="Nombre">
+                        <div class="invalid-feedback">Por favor, ingrese el nombre del medicamento.</div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="cboTipoMedicamentoModal" class="form-label">Tipo Medicamento</label>
+                        <select class="form-control shadow-sm rounded" name="idTipoMedicamento" id="tipoMedicamento">
+                            <option value=''>Seleccione</option>
+                            <!-- Opciones aquí -->
+                        </select>
+                        <div class="invalid-feedback">Por favor, seleccione el tipo de medicamento.</div>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="cboLaboratorioModal" class="form-label">Laboratorio</label>
+                        <select class="form-control shadow-sm rounded" name="idLaboratorio" id="laboratorio">
+                            <option value=''>Seleccione</option>
+                            <!-- Opciones aquí -->
+                        </select>
+                        <div class="invalid-feedback">Por favor, seleccione el laboratorio.</div>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="inputUsoMedicamentoModal" class="form-label">Uso Medicamento</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="usoMedicamento" id="usoMedicamento" placeholder="Uso medicamento">
+                        <div class="invalid-feedback">Por favor, ingrese el uso del medicamento.</div>
+                    </div>
+                    <div class="col-md-12">
+                        <label for="inputContenidoModal" class="form-label">Contenido</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="contenido" id="contenido" placeholder="contenido">
+                        <div class="invalid-feedback">Por favor, ingrese el contenido.</div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="GuardarMedicamento()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarMedicamento()">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<div class="card shadow">
+    <div class="card-header bg-info text-white">
+        <h5 class="mb-0">Lista de medicamentos</h5>
+    </div>
+    <div class="card-body">
+        <div id="divContenedorTabla"></div>
+    </div>
+</div>
+<div id="divContenedorTabla"></div>
+
+
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/medicamento.js"></script>
+
+<script>
+    document.getElementById('frmMedicamento').addEventListener('submit', function(event) {
+        let form = event.target;
+        let isValid = true;
+
+        // Validar campos de texto
+        let camposTexto = ['codigo', 'nombreMedicamento', 'usoMedicamento', 'contenido'];
+        camposTexto.forEach(function(campo) {
+            let input = form.querySelector('#' + campo);
+            if (input.value.trim() === '') {
+                input.classList.add('is-invalid');
+                isValid = false;
+            } else {
+                input.classList.remove('is-invalid');
+            }
+        });
+
+        // Validar selects
+        let selects = ['tipoMedicamento', 'laboratorio'];
+        selects.forEach(function(select) {
+            let input = form.querySelector('#' + select);
+            if (input.value === '') {
+                input.classList.add('is-invalid');
+                isValid = false;
+            } else {
+                input.classList.remove('is-invalid');
+            }
+        });
+
+        if (!isValid) {
+            event.preventDefault();
+            event.stopPropagation();
+        }
+    });
+</script>

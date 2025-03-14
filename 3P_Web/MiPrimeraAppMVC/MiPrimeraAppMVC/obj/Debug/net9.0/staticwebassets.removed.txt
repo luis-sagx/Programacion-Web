@@ -1,0 +1,2 @@
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\wwwroot\css\dashboard.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\wwwroot\js\nav.js

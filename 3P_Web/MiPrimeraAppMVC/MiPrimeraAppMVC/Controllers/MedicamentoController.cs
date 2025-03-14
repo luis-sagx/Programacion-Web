@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using CapaEntidad;
+using CapaNegocios;
 
 namespace MiPrimeraAppMVC.Controllers
 {
@@ -11,74 +13,35 @@ namespace MiPrimeraAppMVC.Controllers
             return View();
         }
 
-        // GET: MedicamentoController/Details/5
-        public ActionResult Details(int id)
+        public List<Medicamento> listarMedicamentos()
         {
-            return View();
+            MedicamentoBL obj = new MedicamentoBL();
+            return obj.listarMedicamentos();
         }
 
-        // GET: MedicamentoController/Create
-        public ActionResult Create()
+        public List<Medicamento> filtrarMedicamentos(Medicamento oMedicamento)
         {
-            return View();
+            MedicamentoBL obj = new MedicamentoBL();
+            return obj.filtrarMedicamentos(oMedicamento);
+        }
+
+        public int guardarMedicamento(Medicamento oMedicamento)
+        {
+            MedicamentoBL obj = new MedicamentoBL();
+            return obj.guardarMedicamento(oMedicamento);
         }
 
 
-        // POST: MedicamentoController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public Medicamento recuperarMedicamento(int iidMedicamento)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            MedicamentoBL obj = new MedicamentoBL();
+            return obj.recuperarMedicamento(iidMedicamento);
         }
 
-        // GET: MedicamentoController/Edit/5
-        public ActionResult Edit(int id)
+        public int eliminarMedicamento(Medicamento oMedicamento)
         {
-            return View();
-        }
-
-        // POST: MedicamentoController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: MedicamentoController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: MedicamentoController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            MedicamentoBL obj = new MedicamentoBL();
+            return obj.eliminarMedicamento(oMedicamento);
         }
     }
 }

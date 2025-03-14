@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S6qpEUd2OT9hMUHlUeAP/YrYIusO+79EkT6gbRs/Lok=",
+  "Hash": "K5STjOg65i1EEZOk3DbnKXuyKMNCs1wJKLDnMSa8XPM=",
   "Source": "MiPrimeraAppMVC",
   "BasePath": "_content/MiPrimeraAppMVC",
   "Mode": "Default",
@@ -311,12 +311,12 @@
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-844ha8x8xh.gz",
+      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-0pazwofzx4.gz",
       "SourceId": "MiPrimeraAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MiPrimeraAppMVC",
-      "RelativePath": "js/medicamento#[.{fingerprint=844ha8x8xh}]?.js.gz",
+      "RelativePath": "js/medicamento#[.{fingerprint=0pazwofzx4}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -325,8 +325,8 @@
       "RelatedAsset": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nrbrs4zkmr",
-      "Integrity": "U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0=",
+      "Fingerprint": "fdarknhinz",
+      "Integrity": "vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js"
@@ -605,12 +605,12 @@
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-p1et9sj3b4.gz",
+      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-hqfla3n2o9.gz",
       "SourceId": "MiPrimeraAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MiPrimeraAppMVC",
-      "RelativePath": "js/laboratorio#[.{fingerprint=p1et9sj3b4}]?.js.gz",
+      "RelativePath": "js/laboratorio#[.{fingerprint=hqfla3n2o9}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -619,8 +619,8 @@
       "RelatedAsset": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "i0m48n6r25",
-      "Integrity": "ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8=",
+      "Fingerprint": "9zcj1v20ub",
+      "Integrity": "i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js"
@@ -857,12 +857,12 @@
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dkusrqwxyp.gz",
+      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dw8v2toeq2.gz",
       "SourceId": "MiPrimeraAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MiPrimeraAppMVC",
-      "RelativePath": "js/sucursal#[.{fingerprint=dkusrqwxyp}]?.js.gz",
+      "RelativePath": "js/sucursal#[.{fingerprint=dw8v2toeq2}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -871,8 +871,8 @@
       "RelatedAsset": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3m6kw0zgx9",
-      "Integrity": "e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI=",
+      "Fingerprint": "kzzxskrjm8",
+      "Integrity": "kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js"
@@ -1592,12 +1592,12 @@
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\lib\\font-awesome\\css\\brands.css"
     },
     {
-      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-n8t9ld940h.gz",
+      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-xpkg212klu.gz",
       "SourceId": "MiPrimeraAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MiPrimeraAppMVC",
-      "RelativePath": "js/generico#[.{fingerprint=n8t9ld940h}]?.js.gz",
+      "RelativePath": "js/generico#[.{fingerprint=xpkg212klu}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1606,8 +1606,8 @@
       "RelatedAsset": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\generico.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "986uld1t8v",
-      "Integrity": "CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk=",
+      "Fingerprint": "ip3wfm2he0",
+      "Integrity": "xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\generico.js"
@@ -1928,12 +1928,12 @@
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-qwnafje5vx.gz",
+      "Identity": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-8nfch6ys0f.gz",
       "SourceId": "MiPrimeraAppMVC",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MiPrimeraAppMVC",
-      "RelativePath": "js/tipoMedicamento#[.{fingerprint=qwnafje5vx}]?.js.gz",
+      "RelativePath": "js/tipoMedicamento#[.{fingerprint=8nfch6ys0f}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1942,8 +1942,8 @@
       "RelatedAsset": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "6v5o3pc5v0",
-      "Integrity": "TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA=",
+      "Fingerprint": "7zeeg3due8",
+      "Integrity": "rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js"
@@ -2299,8 +2299,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n8t9ld940h",
-      "Integrity": "uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4=",
+      "Fingerprint": "xpkg212klu",
+      "Integrity": "Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\generico.js"
@@ -2320,8 +2320,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "p1et9sj3b4",
-      "Integrity": "o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ=",
+      "Fingerprint": "hqfla3n2o9",
+      "Integrity": "F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\laboratorio.js"
@@ -2341,8 +2341,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "844ha8x8xh",
-      "Integrity": "GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE=",
+      "Fingerprint": "0pazwofzx4",
+      "Integrity": "5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\medicamento.js"
@@ -2383,8 +2383,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dkusrqwxyp",
-      "Integrity": "vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug=",
+      "Fingerprint": "dw8v2toeq2",
+      "Integrity": "M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\sucursal.js"
@@ -2404,8 +2404,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qwnafje5vx",
-      "Integrity": "ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as=",
+      "Fingerprint": "8nfch6ys0f",
+      "Integrity": "zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\tipoMedicamento.js"
@@ -4600,7 +4600,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:28:23 GMT"
+          "Value": "Fri, 28 Feb 2025 17:44:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4661,7 +4661,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:28:23 GMT"
+          "Value": "Fri, 28 Feb 2025 17:44:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4706,7 +4706,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:28:23 GMT"
+          "Value": "Fri, 28 Feb 2025 17:44:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4761,7 +4761,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:28:23 GMT"
+          "Value": "Fri, 28 Feb 2025 17:44:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4814,7 +4814,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:28:23 GMT"
+          "Value": "Fri, 28 Feb 2025 17:44:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4851,7 +4851,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 03 Feb 2025 16:28:23 GMT"
+          "Value": "Fri, 28 Feb 2025 17:44:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5173,12 +5173,12 @@
     },
     {
       "Route": "js/generico.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-n8t9ld940h.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-xpkg212klu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000958772771"
+          "Quality": "0.000485436893"
         }
       ],
       "ResponseHeaders": [
@@ -5188,15 +5188,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1042"
+          "Value": "2059"
         },
         {
           "Name": "ETag",
-          "Value": "\"CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk=\""
+          "Value": "\"xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:35:15 GMT"
+          "Value": "Fri, 28 Feb 2025 23:35:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5216,13 +5216,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4=\""
+          "Value": "W/\"Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4="
+          "Value": "sha256-Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4="
         }
       ]
     },
@@ -5237,7 +5237,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3720"
+          "Value": "7339"
         },
         {
           "Name": "Content-Type",
@@ -5245,11 +5245,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4=\""
+          "Value": "\"Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:35:15 GMT"
+          "Value": "Fri, 28 Feb 2025 23:35:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5259,13 +5259,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4="
+          "Value": "sha256-Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4="
         }
       ]
     },
     {
       "Route": "js/generico.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-n8t9ld940h.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-xpkg212klu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5274,7 +5274,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1042"
+          "Value": "2059"
         },
         {
           "Name": "Content-Type",
@@ -5282,11 +5282,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk=\""
+          "Value": "\"xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:35:15 GMT"
+          "Value": "Fri, 28 Feb 2025 23:35:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5304,18 +5304,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk="
+          "Value": "sha256-xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk="
         }
       ]
     },
     {
-      "Route": "js/generico.n8t9ld940h.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-n8t9ld940h.gz",
+      "Route": "js/generico.xpkg212klu.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-xpkg212klu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000958772771"
+          "Quality": "0.000485436893"
         }
       ],
       "ResponseHeaders": [
@@ -5325,15 +5325,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1042"
+          "Value": "2059"
         },
         {
           "Name": "ETag",
-          "Value": "\"CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk=\""
+          "Value": "\"xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:35:15 GMT"
+          "Value": "Fri, 28 Feb 2025 23:35:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5353,13 +5353,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4=\""
+          "Value": "W/\"Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n8t9ld940h"
+          "Value": "xpkg212klu"
         },
         {
           "Name": "label",
@@ -5367,12 +5367,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4="
+          "Value": "sha256-Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4="
         }
       ]
     },
     {
-      "Route": "js/generico.n8t9ld940h.js",
+      "Route": "js/generico.xpkg212klu.js",
       "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\generico.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5382,7 +5382,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3720"
+          "Value": "7339"
         },
         {
           "Name": "Content-Type",
@@ -5390,11 +5390,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4=\""
+          "Value": "\"Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:35:15 GMT"
+          "Value": "Fri, 28 Feb 2025 23:35:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5404,7 +5404,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n8t9ld940h"
+          "Value": "xpkg212klu"
         },
         {
           "Name": "label",
@@ -5412,13 +5412,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uerfoEXGaMjeUw07JW+mPP4mPT9f5lXmmpNIggsfYT4="
+          "Value": "sha256-Gy0+bTcaaDKope/HaxH/odvi1kqW3U9yYxb+GySytI4="
         }
       ]
     },
     {
-      "Route": "js/generico.n8t9ld940h.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-n8t9ld940h.gz",
+      "Route": "js/generico.xpkg212klu.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\sastoax6v2-xpkg212klu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5427,7 +5427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1042"
+          "Value": "2059"
         },
         {
           "Name": "Content-Type",
@@ -5435,11 +5435,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk=\""
+          "Value": "\"xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:35:15 GMT"
+          "Value": "Fri, 28 Feb 2025 23:35:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5457,7 +5457,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n8t9ld940h"
+          "Value": "xpkg212klu"
         },
         {
           "Name": "label",
@@ -5465,18 +5465,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CVRKBgyKxWAjj8p7W9Ca07zNYgdvI71o4l4HYpQcfRk="
+          "Value": "sha256-xsGPdu99uFtBft4PWcuyLbshaGEkpXMff+w4DxQ0rFk="
         }
       ]
     },
     {
-      "Route": "js/laboratorio.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-p1et9sj3b4.gz",
+      "Route": "js/laboratorio.hqfla3n2o9.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-hqfla3n2o9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002590673575"
+          "Quality": "0.001317523057"
         }
       ],
       "ResponseHeaders": [
@@ -5486,19 +5486,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "385"
+          "Value": "758"
         },
         {
           "Name": "ETag",
-          "Value": "\"ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8=\""
+          "Value": "\"i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:27:16 GMT"
+          "Value": "Fri, 28 Feb 2025 16:40:46 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -5514,18 +5514,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ=\""
+          "Value": "W/\"F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "hqfla3n2o9"
+        },
+        {
+          "Name": "label",
+          "Value": "js/laboratorio.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ="
+          "Value": "sha256-F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s="
         }
       ]
     },
     {
-      "Route": "js/laboratorio.js",
+      "Route": "js/laboratorio.hqfla3n2o9.js",
       "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5535,7 +5543,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "865"
+          "Value": "2661"
         },
         {
           "Name": "Content-Type",
@@ -5543,121 +5551,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ=\""
+          "Value": "\"F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:27:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ="
-        }
-      ]
-    },
-    {
-      "Route": "js/laboratorio.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-p1et9sj3b4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:27:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8="
-        }
-      ]
-    },
-    {
-      "Route": "js/laboratorio.p1et9sj3b4.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-p1et9sj3b4.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002590673575"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "385"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:27:16 GMT"
+          "Value": "Fri, 28 Feb 2025 16:40:46 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p1et9sj3b4"
+          "Value": "hqfla3n2o9"
         },
         {
           "Name": "label",
@@ -5665,13 +5573,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ="
+          "Value": "sha256-F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s="
         }
       ]
     },
     {
-      "Route": "js/laboratorio.p1et9sj3b4.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
+      "Route": "js/laboratorio.hqfla3n2o9.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-hqfla3n2o9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5680,7 +5588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "865"
+          "Value": "758"
         },
         {
           "Name": "Content-Type",
@@ -5688,56 +5596,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ=\""
+          "Value": "\"i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:27:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "p1et9sj3b4"
-        },
-        {
-          "Name": "label",
-          "Value": "js/laboratorio.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-o4pWPehuOHDIXzMlpgc7q8a6Sfvpv8Yx98Gd3/e6iSQ="
-        }
-      ]
-    },
-    {
-      "Route": "js/laboratorio.p1et9sj3b4.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-p1et9sj3b4.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 17:27:16 GMT"
+          "Value": "Fri, 28 Feb 2025 16:40:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5755,7 +5618,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "p1et9sj3b4"
+          "Value": "hqfla3n2o9"
         },
         {
           "Name": "label",
@@ -5763,18 +5626,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ciwGzRQDQq49VX4ZQHQDV8FFvwkZT86hNoVTJ/uR6J8="
+          "Value": "sha256-i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ="
         }
       ]
     },
     {
-      "Route": "js/medicamento.844ha8x8xh.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-844ha8x8xh.gz",
+      "Route": "js/laboratorio.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-hqfla3n2o9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.006711409396"
+          "Quality": "0.001317523057"
         }
       ],
       "ResponseHeaders": [
@@ -5784,15 +5647,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "148"
+          "Value": "758"
         },
         {
           "Name": "ETag",
-          "Value": "\"U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0=\""
+          "Value": "\"i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:15:22 GMT"
+          "Value": "Fri, 28 Feb 2025 16:40:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s="
+        }
+      ]
+    },
+    {
+      "Route": "js/laboratorio.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\laboratorio.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2661"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 16:40:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F5e9rtHtMBCJ/vKdGbFVZ0GV54ULfBanagu17R9aK0s="
+        }
+      ]
+    },
+    {
+      "Route": "js/laboratorio.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\bww1c4hx0g-hqfla3n2o9.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "758"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 16:40:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i5qmoZUzkU3z7PwB8nsE/+LCH0K9dY7m5I8qwP9xHBQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/medicamento.0pazwofzx4.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-0pazwofzx4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001297016861"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "770"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 16:22:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5812,13 +5812,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE=\""
+          "Value": "W/\"5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "844ha8x8xh"
+          "Value": "0pazwofzx4"
         },
         {
           "Name": "label",
@@ -5826,12 +5826,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE="
+          "Value": "sha256-5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw="
         }
       ]
     },
     {
-      "Route": "js/medicamento.844ha8x8xh.js",
+      "Route": "js/medicamento.0pazwofzx4.js",
       "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\medicamento.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5841,7 +5841,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225"
+          "Value": "2836"
         },
         {
           "Name": "Content-Type",
@@ -5849,11 +5849,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE=\""
+          "Value": "\"5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:15:22 GMT"
+          "Value": "Fri, 28 Feb 2025 16:22:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5863,7 +5863,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "844ha8x8xh"
+          "Value": "0pazwofzx4"
         },
         {
           "Name": "label",
@@ -5871,13 +5871,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE="
+          "Value": "sha256-5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw="
         }
       ]
     },
     {
-      "Route": "js/medicamento.844ha8x8xh.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-844ha8x8xh.gz",
+      "Route": "js/medicamento.0pazwofzx4.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-0pazwofzx4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5886,7 +5886,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "148"
+          "Value": "770"
         },
         {
           "Name": "Content-Type",
@@ -5894,11 +5894,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0=\""
+          "Value": "\"vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:15:22 GMT"
+          "Value": "Fri, 28 Feb 2025 16:22:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5916,7 +5916,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "844ha8x8xh"
+          "Value": "0pazwofzx4"
         },
         {
           "Name": "label",
@@ -5924,18 +5924,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0="
+          "Value": "sha256-vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY="
         }
       ]
     },
     {
       "Route": "js/medicamento.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-844ha8x8xh.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-0pazwofzx4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.006711409396"
+          "Quality": "0.001297016861"
         }
       ],
       "ResponseHeaders": [
@@ -5945,15 +5945,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "148"
+          "Value": "770"
         },
         {
           "Name": "ETag",
-          "Value": "\"U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0=\""
+          "Value": "\"vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:15:22 GMT"
+          "Value": "Fri, 28 Feb 2025 16:22:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5973,13 +5973,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE=\""
+          "Value": "W/\"5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE="
+          "Value": "sha256-5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw="
         }
       ]
     },
@@ -5994,7 +5994,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "225"
+          "Value": "2836"
         },
         {
           "Name": "Content-Type",
@@ -6002,11 +6002,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE=\""
+          "Value": "\"5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:15:22 GMT"
+          "Value": "Fri, 28 Feb 2025 16:22:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6016,13 +6016,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKlJ+qSmE148hk1MWEpJkLdO76fy1tt57d3UI6sDLTE="
+          "Value": "sha256-5FCyiVVZWgUjBohl8AYmJbK3WocJfT1C0WHdFsJ6qOw="
         }
       ]
     },
     {
       "Route": "js/medicamento.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-844ha8x8xh.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\6esga84kj4-0pazwofzx4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6031,7 +6031,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "148"
+          "Value": "770"
         },
         {
           "Name": "Content-Type",
@@ -6039,11 +6039,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0=\""
+          "Value": "\"vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 17:15:22 GMT"
+          "Value": "Fri, 28 Feb 2025 16:22:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6061,7 +6061,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U9BJf/zd0GIiUrmZUwfeTan2xcntzLhRar/uZ1IeMU0="
+          "Value": "sha256-vbJzqCiDN0LcDs5X2zbI/TRCmHM93OWCLNiZhIXQHHY="
         }
       ]
     },
@@ -6364,13 +6364,13 @@
       ]
     },
     {
-      "Route": "js/sucursal.dkusrqwxyp.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dkusrqwxyp.gz",
+      "Route": "js/sucursal.dw8v2toeq2.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dw8v2toeq2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002710027100"
+          "Quality": "0.001394700139"
         }
       ],
       "ResponseHeaders": [
@@ -6380,15 +6380,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "368"
+          "Value": "716"
         },
         {
           "Name": "ETag",
-          "Value": "\"e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI=\""
+          "Value": "\"kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:16:44 GMT"
+          "Value": "Thu, 27 Feb 2025 23:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6408,13 +6408,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug=\""
+          "Value": "W/\"M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dkusrqwxyp"
+          "Value": "dw8v2toeq2"
         },
         {
           "Name": "label",
@@ -6422,12 +6422,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug="
+          "Value": "sha256-M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA="
         }
       ]
     },
     {
-      "Route": "js/sucursal.dkusrqwxyp.js",
+      "Route": "js/sucursal.dw8v2toeq2.js",
       "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\sucursal.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6437,7 +6437,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "809"
+          "Value": "2327"
         },
         {
           "Name": "Content-Type",
@@ -6445,11 +6445,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug=\""
+          "Value": "\"M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:16:44 GMT"
+          "Value": "Thu, 27 Feb 2025 23:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6459,7 +6459,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dkusrqwxyp"
+          "Value": "dw8v2toeq2"
         },
         {
           "Name": "label",
@@ -6467,13 +6467,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug="
+          "Value": "sha256-M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA="
         }
       ]
     },
     {
-      "Route": "js/sucursal.dkusrqwxyp.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dkusrqwxyp.gz",
+      "Route": "js/sucursal.dw8v2toeq2.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dw8v2toeq2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6482,7 +6482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "368"
+          "Value": "716"
         },
         {
           "Name": "Content-Type",
@@ -6490,11 +6490,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI=\""
+          "Value": "\"kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:16:44 GMT"
+          "Value": "Thu, 27 Feb 2025 23:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6512,7 +6512,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dkusrqwxyp"
+          "Value": "dw8v2toeq2"
         },
         {
           "Name": "label",
@@ -6520,18 +6520,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI="
+          "Value": "sha256-kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI="
         }
       ]
     },
     {
       "Route": "js/sucursal.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dkusrqwxyp.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dw8v2toeq2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002710027100"
+          "Quality": "0.001394700139"
         }
       ],
       "ResponseHeaders": [
@@ -6541,15 +6541,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "368"
+          "Value": "716"
         },
         {
           "Name": "ETag",
-          "Value": "\"e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI=\""
+          "Value": "\"kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:16:44 GMT"
+          "Value": "Thu, 27 Feb 2025 23:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6569,13 +6569,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug=\""
+          "Value": "W/\"M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug="
+          "Value": "sha256-M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA="
         }
       ]
     },
@@ -6590,7 +6590,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "809"
+          "Value": "2327"
         },
         {
           "Name": "Content-Type",
@@ -6598,11 +6598,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug=\""
+          "Value": "\"M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:16:44 GMT"
+          "Value": "Thu, 27 Feb 2025 23:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6612,13 +6612,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vWwLWjMzMcRIs2HSj/catLDGogU88m5i54O8InEtSug="
+          "Value": "sha256-M+s+Rjxs6EXfjkd+cAA+sOwWRBm9e5iDaqJOrm0bvtA="
         }
       ]
     },
     {
       "Route": "js/sucursal.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dkusrqwxyp.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\f3lprzg5zd-dw8v2toeq2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6627,7 +6627,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "368"
+          "Value": "716"
         },
         {
           "Name": "Content-Type",
@@ -6635,11 +6635,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI=\""
+          "Value": "\"kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:16:44 GMT"
+          "Value": "Thu, 27 Feb 2025 23:12:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6657,18 +6657,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-e64av0Jh8WwDBhOGpBg8d20/Ql9XVYsLoDhVvaETvHI="
+          "Value": "sha256-kO/pU51LMhXFluLSjEQ0AQPqvEC0IkEoowzBxczrlnI="
         }
       ]
     },
     {
-      "Route": "js/tipoMedicamento.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-qwnafje5vx.gz",
+      "Route": "js/tipoMedicamento.8nfch6ys0f.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-8nfch6ys0f.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002994011976"
+          "Quality": "0.001291989664"
         }
       ],
       "ResponseHeaders": [
@@ -6678,19 +6678,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "333"
+          "Value": "773"
         },
         {
           "Name": "ETag",
-          "Value": "\"TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA=\""
+          "Value": "\"rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 17:04:36 GMT"
+          "Value": "Fri, 28 Feb 2025 23:40:45 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -6706,18 +6706,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as=\""
+          "Value": "W/\"zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "8nfch6ys0f"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tipoMedicamento.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as="
+          "Value": "sha256-zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4="
         }
       ]
     },
     {
-      "Route": "js/tipoMedicamento.js",
+      "Route": "js/tipoMedicamento.8nfch6ys0f.js",
       "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6727,7 +6735,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1024"
+          "Value": "2951"
         },
         {
           "Name": "Content-Type",
@@ -6735,121 +6743,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as=\""
+          "Value": "\"zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 17:04:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as="
-        }
-      ]
-    },
-    {
-      "Route": "js/tipoMedicamento.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-qwnafje5vx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 17:04:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA="
-        }
-      ]
-    },
-    {
-      "Route": "js/tipoMedicamento.qwnafje5vx.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-qwnafje5vx.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.002994011976"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 17:04:36 GMT"
+          "Value": "Fri, 28 Feb 2025 23:40:45 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qwnafje5vx"
+          "Value": "8nfch6ys0f"
         },
         {
           "Name": "label",
@@ -6857,13 +6765,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as="
+          "Value": "sha256-zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4="
         }
       ]
     },
     {
-      "Route": "js/tipoMedicamento.qwnafje5vx.js",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
+      "Route": "js/tipoMedicamento.8nfch6ys0f.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-8nfch6ys0f.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6872,7 +6780,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1024"
+          "Value": "773"
         },
         {
           "Name": "Content-Type",
@@ -6880,56 +6788,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as=\""
+          "Value": "\"rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 17:04:36 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qwnafje5vx"
-        },
-        {
-          "Name": "label",
-          "Value": "js/tipoMedicamento.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ilJ/lgaXwHNe9PDZJ3ekhmjCQY5GY8wrH5JJYMWA8as="
-        }
-      ]
-    },
-    {
-      "Route": "js/tipoMedicamento.qwnafje5vx.js.gz",
-      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-qwnafje5vx.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Feb 2025 17:04:36 GMT"
+          "Value": "Fri, 28 Feb 2025 23:40:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6947,7 +6810,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qwnafje5vx"
+          "Value": "8nfch6ys0f"
         },
         {
           "Name": "label",
@@ -6955,7 +6818,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TuV8XCmUn2KaCDZ4QLhaFbK42SWBeRpaZ0iCR+H8aWA="
+          "Value": "sha256-rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk="
+        }
+      ]
+    },
+    {
+      "Route": "js/tipoMedicamento.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-8nfch6ys0f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001291989664"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "773"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 23:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4="
+        }
+      ]
+    },
+    {
+      "Route": "js/tipoMedicamento.js",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\wwwroot\\js\\tipoMedicamento.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2951"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 23:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zHz4VrLgZrDKpn+lCeXJKBXHSs6JUD6Tfs9pqM8XLF4="
+        }
+      ]
+    },
+    {
+      "Route": "js/tipoMedicamento.js.gz",
+      "AssetFile": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\3P_Web\\MiPrimeraAppMVC\\MiPrimeraAppMVC\\obj\\Debug\\net9.0\\compressed\\vq057qzhqz-8nfch6ys0f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 23:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rXAupLa6xxWBEyka9zZj9MmNnykNnBlXi1FLuR7Ewvk="
         }
       ]
     },

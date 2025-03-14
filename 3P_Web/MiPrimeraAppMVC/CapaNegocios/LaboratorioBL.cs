@@ -21,5 +21,24 @@ namespace CapaNegocios
             LaboratorioDAL obj = new LaboratorioDAL();
             return obj.filtrarLaboratorios(objLaboratorio);
         }
+
+        public int guardarLaboratorio(Laboratorio oLaboratorioCLS)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.guardarLaboratorio(oLaboratorioCLS);
+        }
+
+        public Laboratorio recuperarLaboratorio(int idLaboratorio)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.recuperarLaboratorio(idLaboratorio);
+        }
+
+        public int eliminarLaboratorio(Laboratorio objLaboratorio)
+        {
+            LaboratorioDAL obj = new LaboratorioDAL();
+            return obj.eliminarLaboratorio(objLaboratorio);
+        }
+
     }
 }

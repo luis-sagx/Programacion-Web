@@ -1,0 +1,23 @@
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.deps.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfoInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.AssemblyInfo.cs
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.sourcelink.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\refint\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaEntidad\obj\Debug\net9.0\ref\CapaEntidad.dll

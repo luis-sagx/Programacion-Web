@@ -1,18 +1,61 @@
-﻿
-@{
-    ViewData["Title"] = "Index";
+﻿@{
+    ViewData["Title"] = "Tipo Medicamento";
 }
 
 <h1>Tipo Medicamento</h1>
 
-<div class="input-group">
+<button type="button" class="btn btn-success mt-3" data-bs-toggle="modal" data-bs-target="#modalTipoMedicamento" onclick="limpiarTipoMedicamento()">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-square" viewBox="0 0 16 16">
+        <path d="M14 1a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
+        <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4" />
+    </svg> Agregar Nuevo
+</button>
+
+<div class="input-group my-3">
     <input id="txtTipoMedicamento" type="text" class="form-control" onkeyup="filtarTipoMedicamento()" placeholder="Ingresar tipo medicamento a buscar" aria-label="Recipient's username with two button addons">
-    
-</div>
-
-<div id="divTable">
 
 </div>
 
+<div class="modal fade" id="modalTipoMedicamento" tabindex="-1" aria-labelledby="modalTipoMedicamentoLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTipoMedicamentoLabel">Gestionar Tipo Medicamento</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmGestionTipoMedicamento" method="post" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="inputIdTipoMedicamento" class="form-label">Id Tipo Medicamento</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idTipoMedicamento" id="idTipoMedicamento" readonly>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputNombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="nombre" id="nombre">
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputDescripcion" class="form-label">Descripción</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="descripcion" id="descripcion">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="guardarTipoMedicamento()">Guardar</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="divTable"></div>
+<div class="bg-dark text-white">
+    <div class="card-header p-2">
+        <h5 class="p-2 ">Lista de Tpo Medicamento</h5>
+    </div>
+    <div class="card-body px-2">
+        <div id="divContenedorTabla"></div>
+    </div>
+</div>
 <script src="~/js/generico.js"></script>
 <script src="~/js/tipoMedicamento.js"></script>
+

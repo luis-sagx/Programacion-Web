@@ -1,0 +1,213 @@
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\v5-font-face.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\brands.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\v4-shims.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\js\site.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\css\site.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\fontawesome.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\solid.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\svg-with-js.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\js\sucursal.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\all.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\conflict-detection.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\v5-font-face.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\all.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\conflict-detection.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\solid.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\js\generic.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\v4-shims.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\js\medicamento.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\v4-shims.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\svg-with-js.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\v4-font-face.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\js\tipoMedicamento.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\dist\jquery.slim.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\regular.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\fontawesome.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\brands.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\fontawesome.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\all.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\js\laboratorio.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\favicon.ico
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\fontawesome.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\solid.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\brands.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\sprites\brands.svg
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\sprites\regular.svg
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\brands.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\all.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\v4-font-face.min.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\v4-shims.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\regular.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\sprites\solid.svg
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\js\regular.min.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\solid.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\font-awesome\css\regular.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\css\site.css
+wwwroot\favicon.ico
+wwwroot\font-awesome\css\all.css
+wwwroot\font-awesome\css\all.min.css
+wwwroot\font-awesome\css\brands.css
+wwwroot\font-awesome\css\brands.min.css
+wwwroot\font-awesome\css\fontawesome.css
+wwwroot\font-awesome\css\fontawesome.min.css
+wwwroot\font-awesome\css\regular.css
+wwwroot\font-awesome\css\regular.min.css
+wwwroot\font-awesome\css\solid.css
+wwwroot\font-awesome\css\solid.min.css
+wwwroot\font-awesome\css\svg-with-js.css
+wwwroot\font-awesome\css\svg-with-js.min.css
+wwwroot\font-awesome\css\v4-font-face.css
+wwwroot\font-awesome\css\v4-font-face.min.css
+wwwroot\font-awesome\css\v4-shims.css
+wwwroot\font-awesome\css\v4-shims.min.css
+wwwroot\font-awesome\css\v5-font-face.css
+wwwroot\font-awesome\css\v5-font-face.min.css
+wwwroot\font-awesome\js\all.js
+wwwroot\font-awesome\js\all.min.js
+wwwroot\font-awesome\js\brands.js
+wwwroot\font-awesome\js\brands.min.js
+wwwroot\font-awesome\js\conflict-detection.js
+wwwroot\font-awesome\js\conflict-detection.min.js
+wwwroot\font-awesome\js\fontawesome.js
+wwwroot\font-awesome\js\fontawesome.min.js
+wwwroot\font-awesome\js\regular.js
+wwwroot\font-awesome\js\regular.min.js
+wwwroot\font-awesome\js\solid.js
+wwwroot\font-awesome\js\solid.min.js
+wwwroot\font-awesome\js\v4-shims.js
+wwwroot\font-awesome\js\v4-shims.min.js
+wwwroot\font-awesome\sprites\brands.svg
+wwwroot\font-awesome\sprites\regular.svg
+wwwroot\font-awesome\sprites\solid.svg
+wwwroot\font-awesome\webfonts\fa-brands-400.ttf
+wwwroot\font-awesome\webfonts\fa-brands-400.woff2
+wwwroot\font-awesome\webfonts\fa-regular-400.ttf
+wwwroot\font-awesome\webfonts\fa-regular-400.woff2
+wwwroot\font-awesome\webfonts\fa-solid-900.ttf
+wwwroot\font-awesome\webfonts\fa-solid-900.woff2
+wwwroot\font-awesome\webfonts\fa-v4compatibility.ttf
+wwwroot\font-awesome\webfonts\fa-v4compatibility.woff2
+wwwroot\js\generic.js
+wwwroot\js\laboratorio.js
+wwwroot\js\medicamento.js
+wwwroot\js\site.js
+wwwroot\js\sucursal.js
+wwwroot\js\tipoMedicamento.js
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt

@@ -19,7 +19,6 @@ C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\scopedcss\bundle\MiPrimeraAppMVC.styles.css
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\scopedcss\projectbundle\MiPrimeraAppMVC.bundle.scp.css
-C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\q1406m4bll-b9sayid5wm.gz
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\8unl7ph726-61n19gt1b8.gz
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\suztbjvpfj-xtxxf3hu2r.gz
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\qwubg63ca4-bqjiyaj88i.gz
@@ -326,7 +325,6 @@ C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\CapaDatos.pdb
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\CapaEntidad.pdb
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\CapaNegocios.pdb
-C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\6esga84kj4-844ha8x8xh.gz
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\System.Data.SqlClient.dll
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
@@ -336,7 +334,9 @@ C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\vq057qzhqz-qwnafje5vx.gz
-C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\bww1c4hx0g-p1et9sj3b4.gz
-C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\sastoax6v2-n8t9ld940h.gz
-C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\f3lprzg5zd-dkusrqwxyp.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\f3lprzg5zd-dw8v2toeq2.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\6esga84kj4-0pazwofzx4.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\bww1c4hx0g-hqfla3n2o9.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\q1406m4bll-b9sayid5wm.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\sastoax6v2-xpkg212klu.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\3P_Web\MiPrimeraAppMVC\MiPrimeraAppMVC\obj\Debug\net9.0\compressed\vq057qzhqz-8nfch6ys0f.gz

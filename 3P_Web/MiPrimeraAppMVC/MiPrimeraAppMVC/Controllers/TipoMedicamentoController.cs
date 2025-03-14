@@ -11,31 +11,35 @@ namespace MiPrimeraAppMVC.Controllers
         {
             return View();
         }
-        public IActionResult Inicio() {
-            return View();
-        }
-        public IActionResult SinMenu() {
-            return View();
-        }
 
         public List<TipoMedicamentoCLS> listarTipoMedicamento()
         {
-            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            TipoMedicamentoBL obj = new TipoMedicamentoBL();
             return obj.listarTipoMedicamento();
         }
 
         public List<TipoMedicamentoCLS> filtrarTipoMedicamento(string nombre)
         {
-            TipoMedicamentoDAL obj = new TipoMedicamentoDAL();
+            TipoMedicamentoBL obj = new TipoMedicamentoBL();
             return obj.filtrarTipoMedicamento(nombre);
         }
 
-        public string cadena(){
-            IConfigurationBuilder builder = new ConfigurationBuilder();
-            builder.AddJsonFile(Path.Combine(Directory.GetCurrentDirectory(), "appsettings.json"));
-            var root = builder.Build();
-            var cadenaDato = root.GetConnectionString("cn");
-            return cadenaDato;
+        public int guardarTipoMedicamento(TipoMedicamentoCLS oTipoMedicamentoCLS)
+        {
+            TipoMedicamentoBL obj = new TipoMedicamentoBL();
+            return obj.guardarTipoMedicamento(oTipoMedicamentoCLS);
+        }
+
+        public TipoMedicamentoCLS recuperarTipoMedicamento(int idTipoMedicamento)
+        {
+            TipoMedicamentoBL obj = new TipoMedicamentoBL();
+            return obj.recuperarTipoMedicamento(idTipoMedicamento);
+        }
+
+        public int eliminarTipoMedicamento(TipoMedicamentoCLS oTipoMedicamentoCLS)
+        {
+            TipoMedicamentoBL obj = new TipoMedicamentoBL();
+            return obj.eliminarTipoMedicamento(oTipoMedicamentoCLS);
         }
 
     }

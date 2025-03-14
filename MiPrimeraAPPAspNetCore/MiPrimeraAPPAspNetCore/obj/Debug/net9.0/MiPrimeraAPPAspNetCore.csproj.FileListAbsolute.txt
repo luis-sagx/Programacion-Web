@@ -1,0 +1,678 @@
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\appsettings.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.staticwebassets.runtime.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.staticwebassets.endpoints.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.exe
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.deps.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.runtimeconfig.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.AssemblyInfo.cs
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.RazorAssemblyInfo.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.RazorAssemblyInfo.cs
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\scopedcss\bundle\MiPrimeraAPPAspNetCore.styles.css
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\scopedcss\projectbundle\MiPrimeraAPPAspNetCore.bundle.scp.css
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3zf42hcx9w-b9sayid5wm.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\kgvjqp17gw-61n19gt1b8.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3v4odit0mj-xtxxf3hu2r.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\b0equ0ibdo-bqjiyaj88i.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\sj5dktjgvl-c2jlpeoesf.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\1c18hrfx9m-erw9l3u2r3.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\9hjs2pw7i4-aexeepp0ev.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\5238f3z8ug-d7shbmvgxk.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\oa3jd11g2l-ausgxo2sd3.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\9g5phza9v9-k8d9w2qqmf.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\nmxjct5iio-cosvhxvwiu.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rri3ijw3zf-ub07r2b239.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\6arsleyzit-fvhpjtyr6v.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\asovlvb61a-b7pk76d08c.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\tkk08i3v18-fsbi9cje9m.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\k0onzj851y-rzd6atqjts.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\zyohdx0qvw-ee0r1s7dh0.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\r6tg4csttn-dxx9fxp4il.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\az01ajku61-jd9uben2k1.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ryvj843iif-khv3u5hwcm.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\w6tuwnyn4p-r4e9w2rdcm.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\uvrn4k9gqs-lcd1t2u6c8.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ui8hiefhsd-c2oey78nd0.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\e5sv5j3hbt-tdbxkamptv.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\xpl9k30srs-j5mq2jizvt.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\67aw6m8aot-06098lyss8.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\0kr82puvlq-nvvlpmu67g.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\705yp0s16x-s35ty4nyc5.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\38cxky1fhj-pj5nd1wqec.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\o9kt0d86m0-46ein0sx1k.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\akb6mh011d-v0zj4ognzu.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\lgi1kskepi-37tfw0ft22.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\xkb6el0nei-hrwsygsryq.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\mcficw4cg2-pk9g2wxc8p.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\wlszl2qahl-ft3s53vfgj.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3yov2tzdo8-6cfz1n2cew.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\iw39o08xbv-6pdc2jztkx.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\jwg4fjgrnh-493y06b0oq.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\yila4v0r3l-iovd86k7lj.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\5tdtve2npc-vr1egmr9el.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\2zvcf4602k-kbrnm935zg.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ot3jf5p0a3-jj8uyg4cgr.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\y5731ngs3r-y7v9cxd14o.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\y4iv6t4aiu-notf2xhcfb.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\4r3ha2r6nd-h1s4sie4z3.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\x883xj0de5-63fj8s7r0e.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\2owevhi1sg-0j3bgjxly4.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\id4yjpdxi1-47otxtyo56.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\j3a6jfdwp5-4v8eqarkd7.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\v2u9uwyxh9-356vix0kms.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\hb2235p9le-83jwlth58m.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\mjehlisror-mrlpezrjn3.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\exdhw4ado5-lzl9nlhx6b.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\bwcqscodtx-ag7o75518u.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\d0aoci4q5z-x0q3zqp4vz.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\z2jmeg5it1-0i3buxo5is.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\6cosy6qbv9-o1o13a6vjx.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\lmmky2sgeb-ttgo8qnofa.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ho7jh912gg-2z0ns9nrw6.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\6e0m1jcmr3-muycvpuwrr.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\1ynq6luane-87fc7y1x7t.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ox7g0qstk3-mlv21k5csn.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\u8aipqi3k7-gie76im96e.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\8erwyzpcn3-gie76im96e.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.MiPrimeraAPPAspNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.MiPrimeraAPPAspNetCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.build.MiPrimeraAPPAspNetCore.props
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MiPrimeraAPPAspNetCore.props
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MiPrimeraAPPAspNetCore.props
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\refint\MiPrimeraAPPAspNetCore.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.genruntimeconfig.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\ref\MiPrimeraAPPAspNetCore.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\libman.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rygeji9h64-3mu0h9tx89.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\bcmg8yqpk8-cmhhdwqdyz.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rt7foa38yl-5zybp921qk.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\i7i12bjybw-eict21by8z.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ies8ooxzre-rvhlnuwl0w.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\kn0ptssdbz-8tr2uchqr5.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\z99qim6hvg-oyhlwpn2ry.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\hzjtwr0cgv-37l46l7i6j.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ysvwg5cdyj-9ozp8y9mwk.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\lp9zz06els-33kherj0x8.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\g3qn6yhjzw-xw9ktltpoq.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\5yls4ok7yx-vv23opoj39.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\g53egzpybc-utrc60xe8f.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\v89df2irrr-m5ioe6x05t.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3006ik89dz-ogfnvmm9u4.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\e0025y5bhd-msy1qwdlar.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\0ci9q8szk0-wygj0g0egz.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\8zwoz9ag7y-qnll27bpxk.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\jfti1qm2qp-vppv4xf58g.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\87nz4tk34h-wbpfeoezp3.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\15mfgp841h-ytu0mno2ng.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\mbjkn7prx8-wuwc8kk5a5.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\8ptrzg8mvr-a2ww84rxre.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\cxxgsbdtt1-parinopxbm.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\i1elfyui67-r2l44wjr8p.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\4kxbdhqc22-9b4bpgjbx0.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\wx4njn34bw-m56mxgorfm.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\yezazj5083-iclhr71gek.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\du971jctm5-5q5v2m71js.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\4vbx2uamt7-n9b8won2d5.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\fua0l8y853-e9652imd4e.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\w5hsesb5nt-1il7se3zg6.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\q1sk0ui8p1-4abcade5u8.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rcfrawthes-huwngg65ec.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\x1y1z4atat-22n2g2hpag.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Humanizer.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.csproj.AssemblyReference.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimer.1F21FA92.Up2Date
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaNegocio.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaNegocio.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\pn5jy5d4uw-9xn7hbja3q.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ggcexakksv-ql846q6oak.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\86xxe2ybp4-x148zvvs92.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\jngg3edimw-o5smu10ev7.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\dxa5s4cht8-6y2eldx8ym.gz
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\f6g9ad9w2y-tzi6my8fz6.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\libman.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\appsettings.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.staticwebassets.runtime.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.staticwebassets.endpoints.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.exe
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.deps.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.runtimeconfig.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\MiPrimeraAPPAspNetCore.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Build.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Build.Framework.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.DiaSymReader.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Common.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Configuration.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Frameworks.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.LibraryModel.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Packaging.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.ProjectModel.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Protocol.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\NuGet.Versioning.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Data.SqlClient.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\af\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ar\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\az\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\bg\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\bn-BD\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\da\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\el\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fa\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fi-FI\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr-BE\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\he\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\hr\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\hu\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\hy\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\id\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\is\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko-KR\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ku\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\lv\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ms-MY\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\mt\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\nb\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\nb-NO\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\nl\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ro\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sk\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sl\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sr\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\sv\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\th-TH\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\uk\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\vi\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-CN\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win-x64\native\sni.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win-x86\native\sni.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaNegocio.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\bin\Debug\net9.0\CapaNegocio.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.csproj.AssemblyReference.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.AssemblyInfoInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.AssemblyInfo.cs
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.RazorAssemblyInfo.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.RazorAssemblyInfo.cs
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.sourcelink.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\scopedcss\bundle\MiPrimeraAPPAspNetCore.styles.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\scopedcss\projectbundle\MiPrimeraAPPAspNetCore.bundle.scp.css
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\kgvjqp17gw-61n19gt1b8.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rygeji9h64-3mu0h9tx89.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\bcmg8yqpk8-cmhhdwqdyz.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rt7foa38yl-5zybp921qk.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\i7i12bjybw-eict21by8z.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ies8ooxzre-rvhlnuwl0w.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\kn0ptssdbz-8tr2uchqr5.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\z99qim6hvg-oyhlwpn2ry.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\hzjtwr0cgv-37l46l7i6j.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ysvwg5cdyj-9ozp8y9mwk.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\lp9zz06els-33kherj0x8.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\g3qn6yhjzw-xw9ktltpoq.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\5yls4ok7yx-vv23opoj39.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\g53egzpybc-utrc60xe8f.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\v89df2irrr-m5ioe6x05t.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3006ik89dz-ogfnvmm9u4.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\e0025y5bhd-msy1qwdlar.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\0ci9q8szk0-wygj0g0egz.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\8zwoz9ag7y-qnll27bpxk.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\jfti1qm2qp-vppv4xf58g.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\87nz4tk34h-wbpfeoezp3.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\15mfgp841h-ytu0mno2ng.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\mbjkn7prx8-wuwc8kk5a5.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\8ptrzg8mvr-a2ww84rxre.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\cxxgsbdtt1-parinopxbm.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\i1elfyui67-r2l44wjr8p.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\4kxbdhqc22-9b4bpgjbx0.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\wx4njn34bw-m56mxgorfm.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\yezazj5083-iclhr71gek.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\du971jctm5-5q5v2m71js.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\4vbx2uamt7-n9b8won2d5.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\fua0l8y853-e9652imd4e.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\w5hsesb5nt-1il7se3zg6.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\q1sk0ui8p1-4abcade5u8.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rcfrawthes-huwngg65ec.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\x1y1z4atat-22n2g2hpag.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\dxa5s4cht8-6y2eldx8ym.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\jngg3edimw-o5smu10ev7.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\f6g9ad9w2y-tzi6my8fz6.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3v4odit0mj-xtxxf3hu2r.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\86xxe2ybp4-x148zvvs92.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ggcexakksv-ql846q6oak.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\b0equ0ibdo-bqjiyaj88i.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\sj5dktjgvl-c2jlpeoesf.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\1c18hrfx9m-erw9l3u2r3.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\9hjs2pw7i4-aexeepp0ev.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\5238f3z8ug-d7shbmvgxk.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\oa3jd11g2l-ausgxo2sd3.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\9g5phza9v9-k8d9w2qqmf.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\nmxjct5iio-cosvhxvwiu.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\rri3ijw3zf-ub07r2b239.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\6arsleyzit-fvhpjtyr6v.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\asovlvb61a-b7pk76d08c.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\tkk08i3v18-fsbi9cje9m.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\k0onzj851y-rzd6atqjts.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\zyohdx0qvw-ee0r1s7dh0.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\r6tg4csttn-dxx9fxp4il.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\az01ajku61-jd9uben2k1.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ryvj843iif-khv3u5hwcm.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\w6tuwnyn4p-r4e9w2rdcm.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\uvrn4k9gqs-lcd1t2u6c8.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ui8hiefhsd-c2oey78nd0.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\e5sv5j3hbt-tdbxkamptv.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\xpl9k30srs-j5mq2jizvt.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\67aw6m8aot-06098lyss8.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\0kr82puvlq-nvvlpmu67g.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\705yp0s16x-s35ty4nyc5.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\38cxky1fhj-pj5nd1wqec.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\o9kt0d86m0-46ein0sx1k.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\akb6mh011d-v0zj4ognzu.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\lgi1kskepi-37tfw0ft22.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\xkb6el0nei-hrwsygsryq.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\mcficw4cg2-pk9g2wxc8p.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\wlszl2qahl-ft3s53vfgj.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3yov2tzdo8-6cfz1n2cew.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\iw39o08xbv-6pdc2jztkx.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\jwg4fjgrnh-493y06b0oq.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\yila4v0r3l-iovd86k7lj.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\5tdtve2npc-vr1egmr9el.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\2zvcf4602k-kbrnm935zg.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ot3jf5p0a3-jj8uyg4cgr.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\y5731ngs3r-y7v9cxd14o.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\y4iv6t4aiu-notf2xhcfb.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\4r3ha2r6nd-h1s4sie4z3.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\x883xj0de5-63fj8s7r0e.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\2owevhi1sg-0j3bgjxly4.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\id4yjpdxi1-47otxtyo56.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\j3a6jfdwp5-4v8eqarkd7.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\v2u9uwyxh9-356vix0kms.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\hb2235p9le-83jwlth58m.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\mjehlisror-mrlpezrjn3.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\exdhw4ado5-lzl9nlhx6b.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\bwcqscodtx-ag7o75518u.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\d0aoci4q5z-x0q3zqp4vz.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\z2jmeg5it1-0i3buxo5is.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\6cosy6qbv9-o1o13a6vjx.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\lmmky2sgeb-ttgo8qnofa.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ho7jh912gg-2z0ns9nrw6.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\6e0m1jcmr3-muycvpuwrr.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\1ynq6luane-87fc7y1x7t.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\ox7g0qstk3-mlv21k5csn.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\u8aipqi3k7-gie76im96e.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\8erwyzpcn3-gie76im96e.gz
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.MiPrimeraAPPAspNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.MiPrimeraAPPAspNetCore.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.build.MiPrimeraAPPAspNetCore.props
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MiPrimeraAPPAspNetCore.props
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MiPrimeraAPPAspNetCore.props
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimer.1F21FA92.Up2Date
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\refint\MiPrimeraAPPAspNetCore.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\MiPrimeraAPPAspNetCore.genruntimeconfig.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\ref\MiPrimeraAPPAspNetCore.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\MiPrimeraAPPAspNetCore\obj\Debug\net9.0\compressed\3zf42hcx9w-8vizuqfvvc.gz

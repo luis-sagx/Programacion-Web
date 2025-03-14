@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\js\\generic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\js\\laboratorio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\views\\laboratorio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\js\\medicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E767E12-79FA-448C-BCCA-6795BC0C9590}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capanegocio\\medicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E767E12-79FA-448C-BCCA-6795BC0C9590}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\medicamentobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E767E12-79FA-448C-BCCA-6795BC0C9590}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E767E12-79FA-448C-BCCA-6795BC0C9590}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\sucursalbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\medicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\tipomedicamentodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\views\\tipomedicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\sucursaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\views\\medicamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\controllers\\medicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\laboratoriodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\js\\tipomedicamento.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6215589-A829-4C3B-B4D0-34753C7D359A}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cadenadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\wwwroot\\js\\sucursal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45017B9A-AF61-4BF1-94EA-326D4DEE43B0}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\capaentidad\\medicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45017B9A-AF61-4BF1-94EA-326D4DEE43B0}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\medicamentocls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\views\\sucursal\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|c:\\users\\luis sagnay\\desktop\\espe\\4 semestre\\programacionweb\\programacion-web\\miprimeraappaspnetcore\\miprimeraappaspnetcore\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BD0DFF-FC3F-4413-8E4A-E9A92BC19871}|MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore.csproj|solutionrelative:miprimeraappaspnetcore\\controllers\\tipomedicamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "generic.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\generic.js",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\generic.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\generic.js",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\generic.js",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAIwJsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-26T15:37:37.203Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "laboratorio.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\laboratorio.js",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\laboratorio.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\laboratorio.js",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\laboratorio.js",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T23:04:37.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Views\\Laboratorio\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T02:32:01.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "medicamento.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\medicamento.js",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\medicamento.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\medicamento.js",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\medicamento.js",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T14:38:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SucursalBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaNegocio\\SucursalBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\SucursalBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaNegocio\\SucursalBL.cs",
+              "RelativeToolTip": "CapaNegocio\\SucursalBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:30:26.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TipoMedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\TipoMedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\TipoMedicamentoDAL.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwIoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:14:59.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicamentoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\MedicamentoDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\MedicamentoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\MedicamentoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:26:27.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicamentoBL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaNegocio\\MedicamentoBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\MedicamentoBL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaNegocio\\MedicamentoBL.cs",
+              "RelativeToolTip": "CapaNegocio\\MedicamentoBL.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:41:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\TipoMedicamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Views\\TipoMedicamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\TipoMedicamento\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Views\\TipoMedicamento\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:27:30.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T16:13:16.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\appsettings.json",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T17:39:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-28T17:42:20.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SucursalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\SucursalDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\SucursalDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\SucursalDAL.cs",
+              "RelativeToolTip": "CapaDatos\\SucursalDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:08:00.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Medicamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Views\\Medicamento\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Medicamento\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Views\\Medicamento\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T14:41:29.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Controllers\\MedicamentoController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Controllers\\MedicamentoController.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Controllers\\MedicamentoController.cs",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Controllers\\MedicamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:50:05.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LaboratorioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\LaboratorioDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\LaboratorioDAL.cs",
+              "RelativeToolTip": "CapaDatos\\LaboratorioDAL.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAkwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:32:05.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tipoMedicamento.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\tipoMedicamento.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\tipoMedicamento.js",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\tipoMedicamento.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T03:33:26.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadenaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\CadenaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CadenaDAL.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaDatos\\CadenaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CadenaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:06:56.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sucursal.js",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\wwwroot\\js\\sucursal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-27T21:18:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MedicamentoCLS.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaEntidad\\MedicamentoCLS.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\MedicamentoCLS.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\CapaEntidad\\MedicamentoCLS.cs",
+              "RelativeToolTip": "CapaEntidad\\MedicamentoCLS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:30:20.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Sucursal\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Views\\Sucursal\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Views\\Sucursal\\Index.cshtml",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Views\\Sucursal\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T21:18:48.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TipoMedicamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeDocumentMoniker": "MiPrimeraAPPAspNetCore\\Controllers\\TipoMedicamentoController.cs",
+              "ToolTip": "C:\\Users\\Luis Sagnay\\Desktop\\ESPE\\4 Semestre\\ProgramacionWeb\\Programacion-Web\\MiPrimeraAPPAspNetCore\\MiPrimeraAPPAspNetCore\\Controllers\\TipoMedicamentoController.cs",
+              "RelativeToolTip": "MiPrimeraAPPAspNetCore\\Controllers\\TipoMedicamentoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:54:05.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

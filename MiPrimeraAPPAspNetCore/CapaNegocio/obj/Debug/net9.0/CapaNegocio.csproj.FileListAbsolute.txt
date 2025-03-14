@@ -1,0 +1,35 @@
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaNegocio.deps.json
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaNegocio.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaNegocio.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNego.81B9D119.Up2Date
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\refint\CapaNegocio.dll
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.pdb
+C:\Users\dalex\source\repos\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\ref\CapaNegocio.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaNegocio.deps.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaNegocio.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaNegocio.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaDatos.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaEntidad.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaDatos.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\bin\Debug\net9.0\CapaEntidad.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.sourcelink.json
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNego.81B9D119.Up2Date
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\refint\CapaNegocio.dll
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\CapaNegocio.pdb
+C:\Users\Luis Sagnay\Desktop\ESPE\4 Semestre\ProgramacionWeb\Programacion-Web\MiPrimeraAPPAspNetCore\CapaNegocio\obj\Debug\net9.0\ref\CapaNegocio.dll

@@ -1,5 +1,6 @@
 ﻿using CapaDatos;
 using CapaEntidad;
+using CapaNegocios;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,8 +22,26 @@ namespace MiPrimeraAppMVC.Controllers
 
         public List<Laboratorio> filtrarLaboratorios(Laboratorio objLaboratorio)
         {
-            LaboratorioDAL obj = new LaboratorioDAL();
+            LaboratorioBL obj = new LaboratorioBL();
             return obj.filtrarLaboratorios(objLaboratorio);
+        }
+
+        public int guardarLaboratorio(Laboratorio oLaboratorioCLS)
+        {
+            LaboratorioBL obj = new LaboratorioBL();
+            return obj.guardarLaboratorio(oLaboratorioCLS);
+        }
+
+        public Laboratorio recuperarLaboratorio(int idLaboratorio)
+        {
+            LaboratorioBL obj = new LaboratorioBL();
+            return obj.recuperarLaboratorio(idLaboratorio);
+        }
+
+        public int eliminarLaboratorio(Laboratorio objLaboratorio)
+        {
+            LaboratorioBL obj = new LaboratorioBL();
+            return obj.eliminarLaboratorio(objLaboratorio);
         }
     }
 }

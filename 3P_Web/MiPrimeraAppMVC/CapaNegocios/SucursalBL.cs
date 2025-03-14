@@ -16,5 +16,22 @@ namespace CapaNegocios
             SucursalDAL obj = new SucursalDAL();
             return obj.filtrarSucursales(objSucursal);
         }
+        public int guardarSucursal(Sucursal oSucursal)
+        {
+            SucursalDAL obj = new SucursalDAL();
+            return obj.guardarSucursal(oSucursal);
+        }
+
+        public Sucursal recuperarSucursal(int iidSucursal)
+        {
+            SucursalDAL obj = new SucursalDAL();
+            return obj.recuperarSucursal(iidSucursal);
+        }
+
+        public int eliminarSucursal(Sucursal oSucursal)
+        {
+            SucursalDAL obj = new SucursalDAL();
+            return obj.eliminarSucursal(oSucursal);
+        }
     }
 }

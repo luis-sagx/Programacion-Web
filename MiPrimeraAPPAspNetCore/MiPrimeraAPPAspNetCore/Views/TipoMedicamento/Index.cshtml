@@ -1,0 +1,99 @@
+﻿@{
+	ViewData["Title"] = "Index"; 
+}
+
+
+<h1 class="display-6 text-primary text-center fw-bold"> <i class="fa fa-medkit"></i>    Tipos de Medicamentos</h1>
+
+
+<div class="input-group" style="max-width: 50%;">
+
+        <span class="input-group-text bg-white rounded-start p-2">
+            <i class="fas fa-search"></i>
+        </span>
+
+    <input id="txtNombreTipoMedicamento" onkeyup="FiltrarTipoMedicamento()" type="text" class="form-control form-control-sm shadow-sm rounded-end" placeholder="Ingresar tipo medicamento a buscar">
+</div>
+
+<br />
+
+
+@* <fieldset id="fieldsetForm" class="border p-3 shadow rounded"> *@
+@*     <legend class="h5">Gestionar Tipo Medicamento</legend> *@
+@*      <div class="col-md-14"> *@
+@*         <form id="frmTipoMedicamento" method="post" class="row g-2"> *@
+@*             <div class="col-md-6"> *@
+@*                 <label for="inputIdLab" class="form-label">Id Tipo Medicamento</label> *@
+@*                 <input type="text" class="form-control shadow-sm rounded" name="idTipoMedicamento" id="idTipoMedicamento" placeholder="Id tipo Medicamento" readonly> *@
+@*             </div> *@
+@*             <div class="col-md-6"> *@
+@*                 <label for="inputNombre" class="form-label">Nombre</label> *@
+@*                 <input type="text" class="form-control shadow-sm rounded" name="nombre" id="nombre" placeholder="Nombre"> *@
+@*             </div> *@
+@*             <div class="col-md-12"> *@
+@*                 <label for="inputDireccion" class="form-label">Descripcion</label> *@
+@*                 <input type="text" class="form-control shadow-sm rounded" name="descripcion" id="descripcion" placeholder="Descripcion"> *@
+@*             </div> *@
+@*             <div class="col-12"> *@
+@*                 <button type="button" class="btn btn-success" onclick="GuardarTipoMedicamento()">Guardar</button> *@
+@*                 <button type="button" class="btn btn-secondary" onclick="LimpiarTipoMedicamento()">Limpiar</button> *@
+@*             </div> *@
+@*         </form> *@
+@*     </div> *@
+@* </fieldset> *@
+
+<button type="button" class="btn btn-success" data-bs-toggle="modal" onclick="MostrarModal()">
+    Nuevo Tipo Medicamento
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-earmark-plus-fill" viewBox="0 0 16 16">
+        <path d="M9.293 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V4.707A1 1 0 0 0 13.707 4L10 .293A1 1 0 0 0 9.293 0M9.5 3.5v-2l3 3h-2a1 1 0 0 1-1-1M8.5 7v1.5H10a.5.5 0 0 1 0 1H8.5V11a.5.5 0 0 1-1 0V9.5H6a.5.5 0 0 1 0-1h1.5V7a.5.5 0 0 1 1 0" />
+    </svg>
+</button>
+
+<br />
+<br />  
+
+
+<div class="card shadow">
+    <div class="card-header bg-info text-white">
+        <h5 class="mb-0">Lista de tipos de medicamentos</h5>
+    </div>
+    <div class="card-body">
+        <div id="divContenedorTabla"></div>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="modalTipoMedicamento" tabindex="-1" aria-labelledby="modalTipoMedicamentoLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTipoMedicamentoLabel">Gestionar Tipo Medicamento</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="frmTipoMedicamento" method="post" class="row g-3">
+                    <div class="col-md-6">
+                        <label for="inputIdTipoMedicamento" class="form-label">Id Tipo Medicamento</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="idTipoMedicamento" id="idTipoMedicamento" readonly>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="inputNombre" class="form-label">Nombre</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="nombre" id="nombre">
+                    </div>
+                    <div class="col-md-12">
+                        <label for="inputDescripcion" class="form-label">Descripcion</label>
+                        <input type="text" class="form-control shadow-sm rounded" name="descripcion" id="descripcion">
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" onclick="GuardarTipoMedicamento()">Guardar</button>
+                <button type="button" class="btn btn-secondary" onclick="LimpiarTipoMedicamento()">Limpiar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/generic.js"></script>
+<script src="~/js/tipomedicamento.js"></script>
